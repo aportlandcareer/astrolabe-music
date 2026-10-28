@@ -1,0 +1,199 @@
+{
+ "id": "8f5767180761",
+ "name": "Classic Rock & Oldies",
+ "genres": [
+  "rock"
+ ],
+ "by": "Dan",
+ "tracks": [
+  {
+   "id": "WfunypXsBO4",
+   "title": "Where The Streets Have No Name",
+   "artist": "U2",
+   "album": ""
+  },
+  {
+   "id": "daeqb6f7GrY",
+   "title": "In A Big Country",
+   "artist": "Big Country",
+   "album": ""
+  },
+  {
+   "id": "pp0LkkcmHmI",
+   "title": "Song Sung Blue (Single Version)",
+   "artist": "Neil Diamond",
+   "album": "Moods"
+  },
+  {
+   "id": "u8axoBf5QWo",
+   "title": "Last Train to London",
+   "artist": "Electric Light Orchestra",
+   "album": "Discovery"
+  },
+  {
+   "id": "02483qMtL4s",
+   "title": "Girl U Want (2009 Remaster)",
+   "artist": "Devo",
+   "album": "Freedom of Choice (2009 Remaster; Deluxe Edition)"
+  },
+  {
+   "id": "hkG0P6OuTVM",
+   "title": "Photograph",
+   "artist": "Def Leppard",
+   "album": "Pyromania"
+  },
+  {
+   "id": "-ss22jmrs_E",
+   "title": "Apache",
+   "artist": "The Shadows",
+   "album": "20 Golden Greats"
+  },
+  {
+   "id": "aEWONCzT3AA",
+   "title": "Legs (2003 Remaster)",
+   "artist": "ZZ Top",
+   "album": "Hi Five: ZZ Top"
+  },
+  {
+   "id": "v_0dQwibEEA",
+   "title": "Heavy",
+   "artist": "Collective Soul",
+   "album": "Dosage"
+  },
+  {
+   "id": "xZDQkeFXyw8",
+   "title": "The Air That I Breathe",
+   "artist": "The Hollies",
+   "album": "Greatest Hits"
+  },
+  {
+   "id": "1rBBmHDdqkA",
+   "title": "Pressure Drop",
+   "artist": "Robert Palmer",
+   "album": "Pressure Drop"
+  },
+  {
+   "id": "_WuPItK647g",
+   "title": "Work To Make It Work",
+   "artist": "Robert Palmer",
+   "album": "Pressure Drop"
+  },
+  {
+   "id": "2Ou85hM1xm8",
+   "title": "Paradise City",
+   "artist": "Guns N' Roses",
+   "album": "Can't Hardly Wait"
+  },
+  {
+   "id": "7Sr91G7m0SA",
+   "title": "Patience",
+   "artist": "Guns N' Roses",
+   "album": "G N' R Lies"
+  },
+  {
+   "id": "IxL0c6WqWLw",
+   "title": "Rock Bottom (Live From MTV Unplugged/1995)",
+   "artist": "Kiss",
+   "album": "MTV Unplugged"
+  },
+  {
+   "id": "WqF5M7IK7I0",
+   "title": "Believe It or Not (Theme from \"Greatest American Hero\")",
+   "artist": "Joey Scarbury",
+   "album": "America's Greatest Hero"
+  },
+  {
+   "id": "o1BqHjNafRk",
+   "title": "What a Fool Believes",
+   "artist": "The Doobie Brothers",
+   "album": "Minute by Minute"
+  },
+  {
+   "id": "25-deLkHwho",
+   "title": "In My Dreams",
+   "artist": "Big Audio Dynamite II",
+   "album": "The Globe"
+  },
+  {
+   "id": "hC4ZbpZNkMw",
+   "title": "Under the Boardwalk",
+   "artist": "Tom Tom Club",
+   "album": "Tom Tom Club"
+  },
+  {
+   "id": "ewdBRb7RTNc",
+   "title": "So Lonely",
+   "artist": "The Police",
+   "album": "Outlandos D'Amour (Remastered 2003)"
+  },
+  {
+   "id": "UAYImHvlrFI",
+   "title": "Don't Stop (2004 Remaster)",
+   "artist": "Fleetwood Mac",
+   "album": "Rumours (Super Deluxe)"
+  },
+  {
+   "id": "4Ne62lXHUgE",
+   "title": "Watching The Wheels",
+   "artist": "John Lennon",
+   "album": "Double Fantasy: Stripped Down"
+  },
+  {
+   "id": "VKsWDyvWaL4",
+   "title": "Stella Blue",
+   "artist": "Grateful Dead",
+   "album": "Wake of the Flood"
+  },
+  {
+   "id": "wWk-uDrGxL0",
+   "title": "Black Betty",
+   "artist": "Ram Jam",
+   "album": "Ram Jam"
+  },
+  {
+   "id": "uFviG9Bn-Cw",
+   "title": "Kiss You All Over",
+   "artist": "Exile",
+   "album": "The Best Of Exile"
+  },
+  {
+   "id": "044huvopePg",
+   "title": "Everywhere At Once",
+   "artist": "The Plimsouls",
+   "album": "Everywhere At Once"
+  },
+  {
+   "id": "fKWW4ll0YzI",
+   "title": "Late in the Evening",
+   "artist": "Paul Simon",
+   "album": "One-Trick Pony"
+  },
+  {
+   "id": "pqlKFbXVXmc",
+   "title": "I've Got a Rock 'n' Roll Heart",
+   "artist": "Eric Clapton",
+   "album": "Money and Cigarettes (2007 Remaster)"
+  },
+  {
+   "id": "yMATM0A5Ask",
+   "title": "Crying",
+   "artist": "Roy Orbison",
+   "album": "Crying"
+  },
+  {
+   "id": "c1Ppck__YU4",
+   "title": "Papa Loves Mambo",
+   "artist": "Perry Como",
+   "album": "The Very Best Of Perry Como"
+  },
+  {
+   "id": "Ggg70YTArkQ",
+   "title": "Black River Swamp",
+   "artist": "Link Wray",
+   "album": "Guitar Preacher - The Polydor Years"
+  }
+ ],
+ "count": 31,
+ "at": "2026-10-27T17:13:45.915Z",
+ "updated": "2026-10-28T08:38:06.299Z"
+}

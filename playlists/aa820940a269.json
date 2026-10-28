@@ -1,0 +1,355 @@
+{
+ "id": "aa820940a269",
+ "name": "Hip-Hop",
+ "genres": [
+  "hip-hop"
+ ],
+ "by": "Dan",
+ "tracks": [
+  {
+   "id": "KK4DsG-x6ow",
+   "title": "Jane Fonda",
+   "artist": "Mickey Avalon",
+   "album": "Mickey Avalon"
+  },
+  {
+   "id": "YJjBmA1GWYM",
+   "title": "Think I Am (feat. Big Daddy Kane & MF DOOM)",
+   "artist": "Masta Ace",
+   "album": "MA_DOOM: Son of Yvonne"
+  },
+  {
+   "id": "LFE_whP700o",
+   "title": "Hellohihey",
+   "artist": "Lifesavas",
+   "album": "Spirit in Stone"
+  },
+  {
+   "id": "wYxOS26Y-KY",
+   "title": "Cut Chemist Suite",
+   "artist": "Ozomatli",
+   "album": "Ozomatli"
+  },
+  {
+   "id": "t2oIhJG7rXA",
+   "title": "We Run This",
+   "artist": "Missy \"Misdemeanor\" Elliott",
+   "album": ""
+  },
+  {
+   "id": "K0Hq3MEF4e4",
+   "title": "No Pause",
+   "artist": "Girl Talk",
+   "album": "Feed the Animals"
+  },
+  {
+   "id": "4pFzZYkCZJc",
+   "title": "Kamaal Coltrane",
+   "artist": "Stro Elliot",
+   "album": "Moods EP"
+  },
+  {
+   "id": "MJ1M8vQBGOY",
+   "title": "Tonight (feat. M3, Erica Dee & J-Live)",
+   "artist": "DJ Nu-Mark",
+   "album": "Broken Sunlight"
+  },
+  {
+   "id": "u4N5i0mKLnE",
+   "title": "Clickbait (FlauMixx)",
+   "artist": "Flau'jae",
+   "album": "4 My Fans"
+  },
+  {
+   "id": "msyy49aRN14",
+   "title": "Melt Like Plastic",
+   "artist": "Chali 2na & Cut Chemist",
+   "album": "Melt Like Plastic"
+  },
+  {
+   "id": "5TlZeem3FU8",
+   "title": "Rhymes Like Dimes (feat. DJ Cucumber Slice)",
+   "artist": "MF DOOM",
+   "album": "Operation: Doomsday (Complete)"
+  },
+  {
+   "id": "z6Fk55_Rtm4",
+   "title": "Won't Bite (feat. Smino)",
+   "artist": "Doja Cat",
+   "album": "Hot Pink"
+  },
+  {
+   "id": "y5T3QzQaCcE",
+   "title": "Throw Back",
+   "artist": "Biz Markie",
+   "album": "Weekend Warrior"
+  },
+  {
+   "id": "n5h0NaZWjyw",
+   "title": "Motion Movement",
+   "artist": "Blue Scholars",
+   "album": "Blue Scholars"
+  },
+  {
+   "id": "9Gv_G0u5hl8",
+   "title": "Definition Of A Rap Flow (Albee 3000) (feat. Amalie Bruun)",
+   "artist": "R.A. The Rugged Man",
+   "album": "Legends Never Die"
+  },
+  {
+   "id": "ySyYlXbOIjI",
+   "title": "Full Clip",
+   "artist": "Gang Starr",
+   "album": "Full Clip: A Decade Of Gang Starr"
+  },
+  {
+   "id": "MIfGHP7LdR8",
+   "title": "OKAY",
+   "artist": "13ounce",
+   "album": "OKAY"
+  },
+  {
+   "id": "deQxgSnzugo",
+   "title": "Ugly Duckling - A Little Samba",
+   "artist": "Ugly Duckling",
+   "album": ""
+  },
+  {
+   "id": "rlf7-isYIJY",
+   "title": "The Prince of Noodles",
+   "artist": "Frank Dukes",
+   "album": "The Way of Ging"
+  },
+  {
+   "id": "L3xU0pVzXBM",
+   "title": "On inonde les ondes",
+   "artist": "Les Sages Poètes de la Rue",
+   "album": "Jusqu'à l'amour"
+  },
+  {
+   "id": "BKn4YVMUukM",
+   "title": "Bull City Love (feat. Destiny Nicole & Terrance Lassiter)",
+   "artist": "9th Wonder & Give Em Soul",
+   "album": "ONE FORTY SEVEN"
+  },
+  {
+   "id": "xP26YedHWxc",
+   "title": "Imma Be",
+   "artist": "The Black Eyed Peas",
+   "album": "THE E.N.D. (THE ENERGY NEVER DIES)"
+  },
+  {
+   "id": "oRzyvhJTZgo",
+   "title": "Like The Rest Of Us",
+   "artist": "Atmosphere, Slug & Ant",
+   "album": "When Life Gives You Lemons, You Paint That Shit Gold"
+  },
+  {
+   "id": "5NZUm6N8xLM",
+   "title": "edamame (feat. Rich Brian)",
+   "artist": "bbno$",
+   "album": "eat ya veggies"
+  },
+  {
+   "id": "cVw_9_8Cctg",
+   "title": "Perico",
+   "artist": "Snow Tha Product",
+   "album": "Perico"
+  },
+  {
+   "id": "lwR8DFXzEa0",
+   "title": "3rd Gear",
+   "artist": "Z-Trip",
+   "album": "Shifting Gears"
+  },
+  {
+   "id": "ujUo8UYVVbo",
+   "title": "All About The Music",
+   "artist": "Z-Trip",
+   "album": "Shifting Gears"
+  },
+  {
+   "id": "QAxEYhHgF10",
+   "title": "Yard (feat. Haile)",
+   "artist": "GoldLink",
+   "album": "Diaspora"
+  },
+  {
+   "id": "Cg90gxYZ1C0",
+   "title": "Dang! (feat. Anderson .Paak)",
+   "artist": "Mac Miller",
+   "album": "The Divine Feminine"
+  },
+  {
+   "id": "2bXOX8xWwsU",
+   "title": "Bonnie & Shyne (feat. Barrington Levy)",
+   "artist": "Shyne",
+   "album": "Shyne"
+  },
+  {
+   "id": "Z5ZryerO9j4",
+   "title": "A.D.I.D.A.S. (Radio Edit) (feat. Big Boi)",
+   "artist": "Killer Mike",
+   "album": "A.D.I.D.A.S."
+  },
+  {
+   "id": "-dZQgvRMFIA",
+   "title": "Canto De Ossanha",
+   "artist": "Jurassic 5",
+   "album": "Feedback"
+  },
+  {
+   "id": "llxNq9ukGEw",
+   "title": "Clumsy",
+   "artist": "Fergie",
+   "album": "The Dutchess"
+  },
+  {
+   "id": "T1aYM6NVXDo",
+   "title": "He Say She Say (feat. Gemini & Sarah Green)",
+   "artist": "Lupe Fiasco",
+   "album": "Lupe Fiasco's Food & Liquor"
+  },
+  {
+   "id": "lauRvbA1ASc",
+   "title": "Neighborhood",
+   "artist": "Del the Funky Homosapien",
+   "album": "Hiero Oldies: Volume Two"
+  },
+  {
+   "id": "lpbHZOkDrwA",
+   "title": "Level It Up",
+   "artist": "The Coup",
+   "album": "Sorry To Bother You: The Soundtrack"
+  },
+  {
+   "id": "zH51kh2ryTE",
+   "title": "Whathegirlmuthafuckinwannadoo (feat. Janelle Monáe)",
+   "artist": "The Coup",
+   "album": "Sorry To Bother You: The Soundtrack"
+  },
+  {
+   "id": "LF3l-pvkQLQ",
+   "title": "Anitra’s Basement Tapes",
+   "artist": "The Coup",
+   "album": "Sorry To Bother You: The Soundtrack"
+  },
+  {
+   "id": "zldF_dVQC40",
+   "title": "OYAHYTT (feat. LaKeith Stanfield)",
+   "artist": "The Coup",
+   "album": "Sorry To Bother You: The Soundtrack"
+  },
+  {
+   "id": "2VgRbXgtTNU",
+   "title": "Rio De Janeiro",
+   "artist": "Ugly Duckling",
+   "album": "Taste The Secret"
+  },
+  {
+   "id": "efCRvoUmRgs",
+   "title": "Metrorail Thru Space",
+   "artist": "Cut Chemist",
+   "album": "The Audience's Listening (U.S. Version)"
+  },
+  {
+   "id": "W-qTChOfOgU",
+   "title": "Work It Out (feat. Dave Matthews Band)",
+   "artist": "Jurassic 5",
+   "album": "Feedback"
+  },
+  {
+   "id": "365Q3QBI9xM",
+   "title": "Verbal Gunfight",
+   "artist": "Jurassic 5",
+   "album": "J5 (Deluxe Edition)"
+  },
+  {
+   "id": "qXXqAiZ5sFQ",
+   "title": "Let Me Show You",
+   "artist": "Kero One & Azure",
+   "album": "Kero & Azure"
+  },
+  {
+   "id": "BxhoG0t6VU0",
+   "title": "Concrete Schoolyard",
+   "artist": "Jurassic 5",
+   "album": "J5 (Deluxe Edition)"
+  },
+  {
+   "id": "_M7Yxy3fMTk",
+   "title": "Blind Man See",
+   "artist": "SoulChef",
+   "album": "Escapism"
+  },
+  {
+   "id": "71rs8r5GXzY",
+   "title": "Doo Wop (That Thing)",
+   "artist": "Lauryn Hill",
+   "album": "The Miseducation of Lauryn Hill"
+  },
+  {
+   "id": "v2eG5Bty8Z0",
+   "title": "SUGAR",
+   "artist": "BROCKHAMPTON",
+   "album": "GINGER"
+  },
+  {
+   "id": "WC8il40rS3c",
+   "title": "Don't Quit (feat. Travis Scott & Jeremih)",
+   "artist": "DJ Khaled",
+   "album": "Grateful"
+  },
+  {
+   "id": "48ydDUQ16RE",
+   "title": "Unforgettable (feat. Swae Lee)",
+   "artist": "French Montana",
+   "album": "Jungle Rules"
+  },
+  {
+   "id": "VRAU3CtiRq8",
+   "title": "Slide (feat. Frank Ocean & Migos)",
+   "artist": "Calvin Harris",
+   "album": "Slide"
+  },
+  {
+   "id": "J9JFXTENxvo",
+   "title": "LOYALTY. (feat. Rihanna)",
+   "artist": "Kendrick Lamar",
+   "album": "DAMN."
+  },
+  {
+   "id": "pvDPWu12k_Y",
+   "title": "It's A Vibe (feat. Ty Dolla $ign, Trey Songz & Jhené Aiko)",
+   "artist": "2 Chainz",
+   "album": "Pretty Girls Like Trap Music"
+  },
+  {
+   "id": "IA1H1--5GFM",
+   "title": "Babushka Boi",
+   "artist": "A$AP Rocky",
+   "album": "Babushka Boi"
+  },
+  {
+   "id": "yetGML1gWow",
+   "title": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
+   "artist": "UGK (Underground Kingz)",
+   "album": "UGK (Underground Kingz)"
+  },
+  {
+   "id": "60XTSx29OnM",
+   "title": "99 Problems",
+   "artist": "JAŸ-Z",
+   "album": "The Black Album"
+  },
+  {
+   "id": "pTd2FE6Fi7o",
+   "title": "m.A.A.d city",
+   "artist": "Kendrick Lamar",
+   "album": "good kid, m.A.A.d. city (Deluxe)"
+  }
+ ],
+ "count": 57,
+ "at": "2026-10-27T17:11:37.440Z",
+ "updated": "2026-10-27T18:01:48.660Z"
+}

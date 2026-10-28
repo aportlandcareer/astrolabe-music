@@ -1,0 +1,289 @@
+{
+ "id": "30b0819dba39",
+ "name": "Modern R&B",
+ "genres": [
+  "r-and-b"
+ ],
+ "by": "Dan",
+ "tracks": [
+  {
+   "id": "j9l9xNYt9Jw",
+   "title": "The Boogie",
+   "artist": "Outasight",
+   "album": "Big Trouble"
+  },
+  {
+   "id": "vdC5yc_hlEA",
+   "title": "Spanish Joint",
+   "artist": "D'Angelo",
+   "album": "Voodoo"
+  },
+  {
+   "id": "Ecwq7cMW84k",
+   "title": "Cinnamon Curls",
+   "artist": "Tom Misch",
+   "album": "Better Days"
+  },
+  {
+   "id": "3hpO93W_cSw",
+   "title": "Roll Some Mo",
+   "artist": "Lucky Daye",
+   "album": "Painted"
+  },
+  {
+   "id": "NCuLjJm_Q2o",
+   "title": "That's You",
+   "artist": "Lucky Daye",
+   "album": "That's You"
+  },
+  {
+   "id": "Q80lZS03J_Y",
+   "title": "MUTT",
+   "artist": "Leon Thomas",
+   "album": "MUTT"
+  },
+  {
+   "id": "cOw59x2RLxU",
+   "title": "Reason To Stay",
+   "artist": "Olivia Dean",
+   "album": "Ok Love You Bye"
+  },
+  {
+   "id": "JglimUtCaZE",
+   "title": "Feel Right (feat. Mystikal)",
+   "artist": "Mark Ronson",
+   "album": "Uptown Special"
+  },
+  {
+   "id": "d-5wmuVoOiw",
+   "title": "Lose Control",
+   "artist": "Teddy Swims",
+   "album": "Lose Control"
+  },
+  {
+   "id": "M6FPIPE5v-0",
+   "title": "Money",
+   "artist": "Michael Kiwanuka & Tom Misch",
+   "album": "Money"
+  },
+  {
+   "id": "aJwkmg3_6Lo",
+   "title": "It Runs Through Me (feat. De La Soul)",
+   "artist": "Tom Misch & De La Soul",
+   "album": "Geography"
+  },
+  {
+   "id": "cHHDkXFFi28",
+   "title": "Cuz I Love You",
+   "artist": "Lizzo",
+   "album": "Cuz I Love You"
+  },
+  {
+   "id": "1JBQMNoWCYc",
+   "title": "Mixer",
+   "artist": "Amber Mark",
+   "album": "Mixer"
+  },
+  {
+   "id": "eQbqHSprYCY",
+   "title": "Count To Five",
+   "artist": "Rhye",
+   "album": "Blood"
+  },
+  {
+   "id": "XeDSFE06v2E",
+   "title": "Honesty",
+   "artist": "Pink Sweat$",
+   "album": "Volume 1"
+  },
+  {
+   "id": "6T4RKvdqhrU",
+   "title": "Our First Time",
+   "artist": "Bruno Mars",
+   "album": "Doo-Wops & Hooligans"
+  },
+  {
+   "id": "QMP-o8WXSPM",
+   "title": "Love On The Brain",
+   "artist": "Rihanna",
+   "album": "ANTI"
+  },
+  {
+   "id": "OPDFsAh6Zy0",
+   "title": "Overjoyed",
+   "artist": "Mary J. Blige",
+   "album": "Conception - An Interpretation Of Stevie Wonder's Songs"
+  },
+  {
+   "id": "WzsW9-hTlLM",
+   "title": "Know Who You Are (feat. Alicia Keys)",
+   "artist": "Pharrell Williams",
+   "album": "G I R L"
+  },
+  {
+   "id": "9QRgC3e2nxU",
+   "title": "Just Friends (Sunny)",
+   "artist": "Musiq Soulchild",
+   "album": "Aijuswanaseing"
+  },
+  {
+   "id": "5YbfGwuh570",
+   "title": "Alright",
+   "artist": "Jamiroquai",
+   "album": "Travelling Without Moving"
+  },
+  {
+   "id": "qb89IZHHL2I",
+   "title": "Secret Garden (feat. Tink)",
+   "artist": "Sway Clarke II",
+   "album": "Secret Garden"
+  },
+  {
+   "id": "xwwY0Qs79ak",
+   "title": "Sideways",
+   "artist": "Citizen Cope",
+   "album": "The Clarence Greenwood Recordings"
+  },
+  {
+   "id": "k49I5m1J6Is",
+   "title": "Redbone",
+   "artist": "Childish Gambino",
+   "album": "\"Awaken, My Love!\""
+  },
+  {
+   "id": "5srlMjz5ePs",
+   "title": "Come Down",
+   "artist": "Anderson .Paak",
+   "album": "Malibu"
+  },
+  {
+   "id": "72udXsmd0e8",
+   "title": "Sunshine",
+   "artist": "Cleo Sol",
+   "album": "Mother"
+  },
+  {
+   "id": "pKeUFjjzSO0",
+   "title": "Wicked Games",
+   "artist": "Kiana Ledé",
+   "album": "Selfless"
+  },
+  {
+   "id": "tFaP1d3GNRA",
+   "title": "Between Us (feat. Snoh Aalegra)",
+   "artist": "dvsn",
+   "album": "A Muse In Her Feelings"
+  },
+  {
+   "id": "NqXV2WADjjY",
+   "title": "Chocolate. (feat. Ari Lennox)",
+   "artist": "Kiana Ledé",
+   "album": "KIKI"
+  },
+  {
+   "id": "RTRxnD2sTnM",
+   "title": "The Take (feat. Chris Brown)",
+   "artist": "Tory Lanez",
+   "album": "Chixtape 5"
+  },
+  {
+   "id": "lgNlFmsn4c8",
+   "title": "Escape From LA",
+   "artist": "The Weeknd",
+   "album": "After Hours"
+  },
+  {
+   "id": "863jYR5r6Y4",
+   "title": "Honey Whiskey",
+   "artist": "SATICA",
+   "album": "Honey Whiskey"
+  },
+  {
+   "id": "kbh1KbMToYM",
+   "title": "Make It Out Alive (feat. SiR)",
+   "artist": "Nao",
+   "album": "Saturn"
+  },
+  {
+   "id": "HuS4SP_RXJU",
+   "title": "The Way (feat. Chance the Rapper)",
+   "artist": "Kehlani",
+   "album": "You Should Be Here"
+  },
+  {
+   "id": "4wRzC9vAcfs",
+   "title": "Touchy Feely",
+   "artist": "Ro James",
+   "album": "Touchy Feely"
+  },
+  {
+   "id": "udzNSJVs4nM",
+   "title": "Fuck Around",
+   "artist": "Tink",
+   "album": "Fuck Around"
+  },
+  {
+   "id": "wnNmN7wJ0Zk",
+   "title": "Come Thru",
+   "artist": "Summer Walker & USHER",
+   "album": "Over It"
+  },
+  {
+   "id": "V_tK-XALVFM",
+   "title": "How You Want It? (feat. King Combs)",
+   "artist": "Teyana Taylor",
+   "album": "The Album"
+  },
+  {
+   "id": "zO8fgFz1Www",
+   "title": "Moment",
+   "artist": "Victoria Monét",
+   "album": "Moment"
+  },
+  {
+   "id": "LveBx3x9ArY",
+   "title": "That's Why I Love You",
+   "artist": "SiR",
+   "album": "Chasing Summer"
+  },
+  {
+   "id": "lOv2tsxLpdU",
+   "title": "Sleep On It",
+   "artist": "Gallant",
+   "album": "Sweet Insomnia"
+  },
+  {
+   "id": "qZuGNDuKh7U",
+   "title": "Temperature Rising",
+   "artist": "Tory Lanez",
+   "album": "Temperature Rising"
+  },
+  {
+   "id": "kxSwhs0ptAg",
+   "title": "Sunday Vibes",
+   "artist": "Masego & Medasin",
+   "album": "The Pink Polo EP"
+  },
+  {
+   "id": "BzGrWlSKpCo",
+   "title": "Truth Hurts",
+   "artist": "Lizzo",
+   "album": "Truth Hurts"
+  },
+  {
+   "id": "tEpuiZm94OQ",
+   "title": "Talk (feat. Disclosure)",
+   "artist": "Khalid",
+   "album": "Free Spirit"
+  },
+  {
+   "id": "zdCLmz-zEYM",
+   "title": "Please Me",
+   "artist": "Cardi B & Bruno Mars",
+   "album": "Please Me"
+  }
+ ],
+ "count": 46,
+ "at": "2026-10-27T17:10:52.934Z",
+ "updated": "2026-10-27T18:01:48.210Z"
+}

@@ -1,0 +1,302 @@
+{
+ "id": "faa086e94cbd",
+ "name": "Latin & Global",
+ "genres": [
+  "latin",
+  "world"
+ ],
+ "by": "Dan",
+ "tracks": [
+  {
+   "id": "nukeVfSRG9c",
+   "title": "Gigante",
+   "artist": "The Binary Cumbia Orchestra",
+   "album": "Golazo"
+  },
+  {
+   "id": "jmFmVov9ZHQ",
+   "title": "Guayaba",
+   "artist": "La Logia Sarabanda",
+   "album": "Guayaba"
+  },
+  {
+   "id": "f_E5MgeiOWs",
+   "title": "Corazón de Melón",
+   "artist": "Los Panchos",
+   "album": "Bésame Mucho"
+  },
+  {
+   "id": "74eMEZhOl-U",
+   "title": "Cumbia de la Montaña",
+   "artist": "Amantes Del Futuro",
+   "album": "Sabor Sónico"
+  },
+  {
+   "id": "n793_T8iuGo",
+   "title": "Sweet Dreams Vs Love Tonigth (Guaracha Aleteo)",
+   "artist": "Dj Alan Quiñonez",
+   "album": ""
+  },
+  {
+   "id": "X9lLdphbw4Q",
+   "title": "Filaou Bessame (Cerrone Remix)",
+   "artist": "Amadou & Mariam",
+   "album": "Filaou Bessame (Cerrone Remix)"
+  },
+  {
+   "id": "LjPG3NrsysA",
+   "title": "Sanaga Calypso",
+   "artist": "Pasteur Lappe",
+   "album": "African Funk Experimentals (1979 to 1981)"
+  },
+  {
+   "id": "f20ZW_l0-RU",
+   "title": "Sidet Eskemeche (feat. Yared Teshale)",
+   "artist": "Dexter Story",
+   "album": "Wondem"
+  },
+  {
+   "id": "pafl5JjthHY",
+   "title": "Jamás Impedirás",
+   "artist": "Enrique Delgado & Los Destellos",
+   "album": "Enrique Delgado en Criollo"
+  },
+  {
+   "id": "MhmX8_uXMjk",
+   "title": "Un Silbido Amoroso",
+   "artist": "Los Wembler's de Iquitos",
+   "album": "Fiebre en la Selva"
+  },
+  {
+   "id": "NorfZaIkyL8",
+   "title": "Amapolas",
+   "artist": "Leo Rizzi",
+   "album": "Amapolas"
+  },
+  {
+   "id": "LoOaWAQojdM",
+   "title": "Igual Que Un Ángel (feat. Peso Pluma)",
+   "artist": "Kali Uchis",
+   "album": "ORQUÍDEAS"
+  },
+  {
+   "id": "EMHuqrSIiDU",
+   "title": "POCPOC",
+   "artist": "PEDRO SAMPAIO",
+   "album": "POCPOC"
+  },
+  {
+   "id": "HMoBVoLEOiw",
+   "title": "Ptazeta: Bzrp Music Sessions, Vol. 45/66",
+   "artist": "Bizarrap & Ptazeta",
+   "album": "Ptazeta: Bzrp Music Sessions, Vol. 45/66"
+  },
+  {
+   "id": "Ml4DFXwWtlU",
+   "title": "Você Não Me Ensinou a Te Esquecer",
+   "artist": "Caetano Veloso",
+   "album": "Lisbela e o Prisioneiro (Trilha Sonora)"
+  },
+  {
+   "id": "iH3uetMaaUc",
+   "title": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+   "artist": "DJ Snake",
+   "album": "Carte Blanche (Deluxe)"
+  },
+  {
+   "id": "dh6dofljCDU",
+   "title": "Bawo Wam (feat. Spoek Mathambo)",
+   "artist": "Bongeziwe Mabandla",
+   "album": "Mangaliso"
+  },
+  {
+   "id": "7gHL8QmAfIU",
+   "title": "Eu também quero beijar",
+   "artist": "Pepeu Gomes",
+   "album": "Calor Humano"
+  },
+  {
+   "id": "NXYs3eqDiYo",
+   "title": "Zanmi kanmarad",
+   "artist": "Claudette et Ti Pierre",
+   "album": "Les fleurs d'Haïti, vol. 1 (Pour les gens de bien)"
+  },
+  {
+   "id": "b9RHIWG2qJA",
+   "title": "La Chinita",
+   "artist": "Manu chao",
+   "album": "Próxima Estación: Esperanza"
+  },
+  {
+   "id": "yVAEYyep0TA",
+   "title": "The Lion Sleeps Tonight",
+   "artist": "Solomon Linda's Original Evening Birds",
+   "album": "The Lion Sleeps Tonight"
+  },
+  {
+   "id": "awhag6H-O4c",
+   "title": "Chulo Sin H (feat. De La Ghetto)",
+   "artist": "Jowell & Randy",
+   "album": "Doxis Edition (The Mixtape)"
+  },
+  {
+   "id": "q8UzJ-M3OuA",
+   "title": "De Ti Me Enamore",
+   "artist": "Baby Rasta",
+   "album": "La Ultima Risa"
+  },
+  {
+   "id": "GZG4v_7vdJU",
+   "title": "Dile A El",
+   "artist": "Jowell & Randy",
+   "album": "El Momento"
+  },
+  {
+   "id": "hAm2Hz0E718",
+   "title": "Kilerito",
+   "artist": "Brytiago & Anuel AA",
+   "album": "Kilerito"
+  },
+  {
+   "id": "Lb_l4Ogsb2Y",
+   "title": "Coge Tu Hilo",
+   "artist": "L Kimii, Un Titico & Jerry La Bandera",
+   "album": "Coge Tu Hilo"
+  },
+  {
+   "id": "9p7dCCQw7Iw",
+   "title": "MQ o MD",
+   "artist": "Dale Pututi",
+   "album": "MQ o MD"
+  },
+  {
+   "id": "i9gxO_5vA-Q",
+   "title": "PROVENZA",
+   "artist": "KAROL G",
+   "album": "MAÑANA SERÁ BONITO"
+  },
+  {
+   "id": "milNAZO70eQ",
+   "title": "All of Me (Disse alguem)",
+   "artist": "Joao Gilberto, Caetano Veloso & Gilberto Gil",
+   "album": "Brazil"
+  },
+  {
+   "id": "NzwkirM7R5w",
+   "title": "Adan y Eva",
+   "artist": "Paulo Londra",
+   "album": "Adan y Eva"
+  },
+  {
+   "id": "kwlCfzFmxno",
+   "title": "MIA (feat. Drake)",
+   "artist": "Bad Bunny",
+   "album": "MIA"
+  },
+  {
+   "id": "qGn1YtIvbS8",
+   "title": "Cuando Te Besé (8-Bit Becky G feat. Paulo Londra Emulation) (feat. Paulo Londra Emulation)",
+   "artist": "8-Bit Arcade",
+   "album": "By Request, Vol. 3"
+  },
+  {
+   "id": "Lh_9PaTpeF8",
+   "title": "Amigos Con Derechos",
+   "artist": "Reik",
+   "album": "Ahora"
+  },
+  {
+   "id": "weaRBsTrSkM",
+   "title": "Vaina Loca",
+   "artist": "Ozuna & Manuel Turizo",
+   "album": "Aura"
+  },
+  {
+   "id": "DlRxEhmKGYA",
+   "title": "Puntos Suspensivos",
+   "artist": "Piso 21",
+   "album": "Ubuntu"
+  },
+  {
+   "id": "OrmRm8Weyzg",
+   "title": "Mala Mía",
+   "artist": "Maluma",
+   "album": "Mala Mía"
+  },
+  {
+   "id": "mw2XM-PSqXY",
+   "title": "MALAMENTE (Cap.1: Augurio)",
+   "artist": "ROSALÍA",
+   "album": "El Mal Querer"
+  },
+  {
+   "id": "nlEPSY6qA28",
+   "title": "QUE NO SALGA LA LUNA (Cap.2: Boda)",
+   "artist": "ROSALÍA",
+   "album": "El Mal Querer"
+  },
+  {
+   "id": "isfVUG54CLc",
+   "title": "PIENSO EN TU MIRÁ (Cap.3: Celos)",
+   "artist": "ROSALÍA",
+   "album": "El Mal Querer"
+  },
+  {
+   "id": "vk4dTui5EQo",
+   "title": "DE AQUÍ NO SALES (Cap.4: Disputa)",
+   "artist": "ROSALÍA",
+   "album": "El Mal Querer"
+  },
+  {
+   "id": "G0rPjW6xXFA",
+   "title": "RENIEGO (Cap.5: Lamento)",
+   "artist": "ROSALÍA",
+   "album": "El Mal Querer"
+  },
+  {
+   "id": "ngBCsDOTNOM",
+   "title": "PRESO (Cap.6: Clausura)",
+   "artist": "ROSALÍA",
+   "album": "El Mal Querer"
+  },
+  {
+   "id": "ruERS8KGNDY",
+   "title": "BAGDAD (Cap.7: Liturgia)",
+   "artist": "ROSALÍA",
+   "album": "El Mal Querer"
+  },
+  {
+   "id": "eGuVONdX-uo",
+   "title": "DI MI NOMBRE (Cap.8: Éxtasis)",
+   "artist": "ROSALÍA",
+   "album": "El Mal Querer"
+  },
+  {
+   "id": "D3CZ0huqnSE",
+   "title": "NANA (Cap.9: Concepción)",
+   "artist": "ROSALÍA",
+   "album": "El Mal Querer"
+  },
+  {
+   "id": "dHXSUAjjWOM",
+   "title": "MALDICIÓN (Cap.10: Cordura)",
+   "artist": "ROSALÍA",
+   "album": "El Mal Querer"
+  },
+  {
+   "id": "UQCmuEO13Tc",
+   "title": "A NINGÚN HOMBRE (Cap.11: Poder)",
+   "artist": "ROSALÍA",
+   "album": "El Mal Querer"
+  },
+  {
+   "id": "kmxvNIhOkdE",
+   "title": "Shaky Shaky",
+   "artist": "Daddy Yankee",
+   "album": "Shaky Shaky"
+  }
+ ],
+ "count": 48,
+ "at": "2026-10-27T17:11:22.206Z",
+ "updated": "2026-10-27T18:01:48.460Z"
+}

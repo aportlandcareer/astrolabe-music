@@ -1,0 +1,596 @@
+{
+ "id": "3eb669fa8bf5",
+ "name": "Jazz & Instrumental Grooves",
+ "genres": [
+  "jazz",
+  "chill"
+ ],
+ "by": "Dan",
+ "tracks": [
+  {
+   "id": "6_4hhC84CKY",
+   "title": "Little Joe & Mary",
+   "artist": "Khruangbin",
+   "album": "The Universe Smiles Upon You"
+  },
+  {
+   "id": "zr1l9AKFckw",
+   "title": "The Lonely Robot",
+   "artist": "Greg Foat & Ayo Salawu",
+   "album": "Interstellar Fantasy"
+  },
+  {
+   "id": "2S5kb6QJ83A",
+   "title": "Daylight Savings",
+   "artist": "Surprise Chef",
+   "album": "Daylight Savings"
+  },
+  {
+   "id": "AWOsFwC8iIs",
+   "title": "Don't You Know",
+   "artist": "Jan Hammer Group",
+   "album": "Melodies"
+  },
+  {
+   "id": "XOvm_3Jbkwo",
+   "title": "Stone Flower",
+   "artist": "Antonio Carlos Jobim",
+   "album": "Stone Flower (CTI Records 40th Anniversary Edition)"
+  },
+  {
+   "id": "q0ZO0Klp3Jc",
+   "title": "Unicorn",
+   "artist": "Dizzy Gillespie",
+   "album": "Free Ride"
+  },
+  {
+   "id": "R7KcQe_8PoU",
+   "title": "Zionsville ii",
+   "artist": "Khruangbin",
+   "album": "The Universe Smiles Upon You ii"
+  },
+  {
+   "id": "6Fg_qmSKVsU",
+   "title": "Obstinacy",
+   "artist": "Orchestra Cometa",
+   "album": "Crate Diggers, Vol. 1: Stone Cold Rare Beats & Vinyl Oddities 1965-1978"
+  },
+  {
+   "id": "g-VALo3p_GU",
+   "title": "Smoothies",
+   "artist": "Jazzbois",
+   "album": "Jazzbois Goes Blunt"
+  },
+  {
+   "id": "c07eTbLF_18",
+   "title": "Backline",
+   "artist": "Butcher Brown",
+   "album": "Letters From The Atlantic"
+  },
+  {
+   "id": "-5wXpvoG9cc",
+   "title": "Coco",
+   "artist": "Joe Thomas",
+   "album": "Feelin's From Within"
+  },
+  {
+   "id": "lkhLV6ZS5RE",
+   "title": "Familiar and Constant",
+   "artist": "YUNSEOKCHEOL TRIO & Yun Seok Cheol",
+   "album": "Familiar and Constant"
+  },
+  {
+   "id": "UNu8NVTfwfI",
+   "title": "Mizrab",
+   "artist": "Gabor Szabo",
+   "album": "Mizrab"
+  },
+  {
+   "id": "r03TLXLcq3Q",
+   "title": "Vermelhinho",
+   "artist": "Antonio Adolfo",
+   "album": "Viralata"
+  },
+  {
+   "id": "OT56sz80qIw",
+   "title": "Going Home",
+   "artist": "Alice Coltrane",
+   "album": "Lord Of Lords"
+  },
+  {
+   "id": "tWNZg02cTns",
+   "title": "Bethena -- A Concert Waltz",
+   "artist": "Janice Scroggins",
+   "album": "Janice Scroggins Plays Scott Joplin"
+  },
+  {
+   "id": "-01k4lEZmPU",
+   "title": "1932 Baby Rose Marie - Take A Picture Of The Moon (with Fletcher Henderson Orch.)",
+   "artist": "The78Prof",
+   "album": ""
+  },
+  {
+   "id": "gZWgIT74d7E",
+   "title": "Hammerhead",
+   "artist": "Simon Haseley & De Wolfe Music",
+   "album": "Great Day"
+  },
+  {
+   "id": "2VZc6qdWZ38",
+   "title": "Distorting Time",
+   "artist": "Nils Wülker",
+   "album": "Go"
+  },
+  {
+   "id": "pK0NdXTzLcY",
+   "title": "Nocturne (Live)",
+   "artist": "Julian Lage",
+   "album": "Live in Los Angeles"
+  },
+  {
+   "id": "KeMMvkFr3FQ",
+   "title": "Sonora",
+   "artist": "Ryo Fukui, 福居良",
+   "album": "A Letter from Slowboat"
+  },
+  {
+   "id": "vdCx0U6feKk",
+   "title": "Nocturne",
+   "artist": "Julian Lage",
+   "album": "Arclight"
+  },
+  {
+   "id": "4c_i_JmttKg",
+   "title": "Sirens of Jupiter",
+   "artist": "The Olympians",
+   "album": "The Olympians"
+  },
+  {
+   "id": "jOkBpSItuP8",
+   "title": "Turiya & Ramakrishna",
+   "artist": "Alice Coltrane",
+   "album": "Ptah The El Daoud"
+  },
+  {
+   "id": "iV93hXBZinw",
+   "title": "Make the Road By Walking",
+   "artist": "Menahan Street Band",
+   "album": "Make the Road By Walking"
+  },
+  {
+   "id": "PUUDWVhxZ4I",
+   "title": "Mars",
+   "artist": "The Olympians",
+   "album": "The Olympians"
+  },
+  {
+   "id": "PPP8aw82PHk",
+   "title": "Ruby My Dear",
+   "artist": "Thelonious Monk Trio",
+   "album": "Straight No Chaser"
+  },
+  {
+   "id": "wW7WgqF4yoo",
+   "title": "Wildflower",
+   "artist": "Hank Crawford",
+   "album": "Wildflower"
+  },
+  {
+   "id": "Iob7PDs-o0o",
+   "title": "Greasy Spoon",
+   "artist": "The Crusaders",
+   "album": "The Complete Motown Singles Vol. 11A: 1971"
+  },
+  {
+   "id": "ta4G1xOUcrE",
+   "title": "Mercury's Odyssey",
+   "artist": "The Olympians",
+   "album": "The Olympians"
+  },
+  {
+   "id": "yL-_PGgFVvs",
+   "title": "A Calf Born In Winter",
+   "artist": "Khruangbin",
+   "album": "A Calf Born in Winter"
+  },
+  {
+   "id": "qJqYxmsWgSg",
+   "title": "Stairway to the Stars",
+   "artist": "Rachael Price",
+   "album": "The Good Hours"
+  },
+  {
+   "id": "F_6wEdg2-TM",
+   "title": "Neptune",
+   "artist": "The Olympians",
+   "album": "The Olympians"
+  },
+  {
+   "id": "_MYFPQSKzQI",
+   "title": "Shades of Man",
+   "artist": "Khruangbin",
+   "album": "Con Todo El Mundo"
+  },
+  {
+   "id": "ZGs1ATfHK-A",
+   "title": "Lady and Man",
+   "artist": "Khruangbin",
+   "album": "Con Todo El Mundo"
+  },
+  {
+   "id": "6efh-dhz05w",
+   "title": "Two Fish and an Elephant",
+   "artist": "Khruangbin",
+   "album": "The Universe Smiles Upon You"
+  },
+  {
+   "id": "fUX8AZeVp6s",
+   "title": "Bird Of Space",
+   "artist": "José James",
+   "album": "No Beginning No End"
+  },
+  {
+   "id": "POnM8GYnpGI",
+   "title": "Tacos",
+   "artist": "Stanley Turrentine",
+   "album": "Mr. Natural"
+  },
+  {
+   "id": "MLQ7b9GRmGA",
+   "title": "Between The Bars",
+   "artist": "Madeleine Peyroux",
+   "album": "Careless Love"
+  },
+  {
+   "id": "H_kvg5fV6mw",
+   "title": "Maria También",
+   "artist": "Khruangbin",
+   "album": "Con Todo El Mundo"
+  },
+  {
+   "id": "uwHTwENVtD4",
+   "title": "Knowledge",
+   "artist": "Kamasi Washington",
+   "album": "Harmony of Difference"
+  },
+  {
+   "id": "Z0TfdZBc7L8",
+   "title": "Strange Seed",
+   "artist": "Emapea",
+   "album": "Seeds, Roots & Fruits"
+  },
+  {
+   "id": "M4mh2GNemy0",
+   "title": "Age Of Ascent",
+   "artist": "Kokoroko",
+   "album": "Age Of Ascent"
+  },
+  {
+   "id": "e-qMhYPPDSw",
+   "title": "Fire",
+   "artist": "Thomas Naïm",
+   "album": "Sounds of Jimi"
+  },
+  {
+   "id": "0gOX4W2PNGM",
+   "title": "A Taste of Honey",
+   "artist": "Paul Desmond",
+   "album": "Glad To Be Unhappy"
+  },
+  {
+   "id": "gw-o0uTkp_k",
+   "title": "Like Someone In Love",
+   "artist": "Bill Evans",
+   "album": "The Complete Riverside Recordings (Remastered 1987)"
+  },
+  {
+   "id": "fsJ3JjpZyoA",
+   "title": "Moanin'",
+   "artist": "Art Blakey & The Jazz Messengers",
+   "album": "Moanin' (Expanded Edition)"
+  },
+  {
+   "id": "MvB77oYXlvU",
+   "title": "Nakamarra",
+   "artist": "Hiatus Kaiyote",
+   "album": "Tawk Tomahawk"
+  },
+  {
+   "id": "dKHXLjq9v1o",
+   "title": "American't",
+   "artist": "Christian Scott",
+   "album": "Yesterday You Said Tomorrow"
+  },
+  {
+   "id": "yD1vqbKTBrM",
+   "title": "Boplicity (Remastered 1998)",
+   "artist": "Miles Davis",
+   "album": "The Complete Birth Of The Cool"
+  },
+  {
+   "id": "mLlwp1aB8Eo",
+   "title": "Naima",
+   "artist": "John Coltrane",
+   "album": "Giant Steps"
+  },
+  {
+   "id": "ik07PRDes1Q",
+   "title": "Cashmere",
+   "artist": "BADBADNOTGOOD",
+   "album": "IV"
+  },
+  {
+   "id": "vUjnzaeA6Mc",
+   "title": "MOON",
+   "artist": "DOMi & JD BECK & Herbie Hancock",
+   "album": "NOT TiGHT"
+  },
+  {
+   "id": "0aVoug_08qc",
+   "title": "Tidal Wave",
+   "artist": "Butcher Brown",
+   "album": "Tidal Wave"
+  },
+  {
+   "id": "Wf02V8AtMag",
+   "title": "Night Lights",
+   "artist": "Gerry Mulligan Sextet",
+   "album": "Night Lights (Expanded Edition)"
+  },
+  {
+   "id": "eAKMuxB1ynU",
+   "title": "Call Your Mom",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "I Told You So"
+  },
+  {
+   "id": "9iUzheZ95Dc",
+   "title": "Run Outs",
+   "artist": "Alfa Mist",
+   "album": "Bring Backs"
+  },
+  {
+   "id": "ryA6eHZNnXY",
+   "title": "Take Five",
+   "artist": "The Dave Brubeck Quartet",
+   "album": "Time Out"
+  },
+  {
+   "id": "T4orcal8sZA",
+   "title": "Outliers",
+   "artist": "Ant Law, Alex Hitchcock, Eric Harland & Linda May Han Oh",
+   "album": "Outliers"
+  },
+  {
+   "id": "1UGtH3t-QKg",
+   "title": "To Never Forget The Source",
+   "artist": "Sons Of Kemet",
+   "album": "Black To The Future"
+  },
+  {
+   "id": "EsJe33RbZMk",
+   "title": "Warp (feat. Jackson Mathod & Kaidi Akinnibi)",
+   "artist": "Blue Lab Beats",
+   "album": "Motherland Journey"
+  },
+  {
+   "id": "BrEZTxPeI48",
+   "title": "Love Theme From Spartacus (Rudy Van Gelder Remaster / 2006)",
+   "artist": "Yusef Lateef",
+   "album": "Some Relaxing Jazz"
+  },
+  {
+   "id": "b19XX_D_ano",
+   "title": "Samuel L Riddim",
+   "artist": "Ezra Collective",
+   "album": "Samuel L Riddim"
+  },
+  {
+   "id": "j9plNWFyGbk",
+   "title": "It Never Entered My Mind",
+   "artist": "The Miles Davis Quintet",
+   "album": "Chronicles - The Complete Prestige Recordings 1951-1956"
+  },
+  {
+   "id": "Yj1VHGIwZUI",
+   "title": "Saturn",
+   "artist": "The Olympians",
+   "album": "The Olympians"
+  },
+  {
+   "id": "JiP7jKdAhD0",
+   "title": "In A Sentimental Mood",
+   "artist": "Duke Ellington & John Coltrane",
+   "album": "Duke Ellington & John Coltrane"
+  },
+  {
+   "id": "XKLAhmPZHe8",
+   "title": "Desire",
+   "artist": "Kamasi Washington",
+   "album": "Harmony of Difference"
+  },
+  {
+   "id": "wUn4zV5mfNs",
+   "title": "Blue In Green",
+   "artist": "Miles Davis",
+   "album": "The Complete Miles Davis Featuring John Coltrane"
+  },
+  {
+   "id": "Sp8o6wS7M7g",
+   "title": "Sunrise in Beijing",
+   "artist": "Christian Scott aTunde Adjuah",
+   "album": "Axiom"
+  },
+  {
+   "id": "Us_n5q9uzak",
+   "title": "Bewitched",
+   "artist": "Paul Desmond, Jim Hall, Connie Kay & Percy Heath",
+   "album": "Easy Living"
+  },
+  {
+   "id": "loXZWujTzaI",
+   "title": "Morning Dew",
+   "artist": "Matt Quentin",
+   "album": "Morning Dew"
+  },
+  {
+   "id": "Tr8zYSaZUsE",
+   "title": "Dide O",
+   "artist": "Kokoroko",
+   "album": "Could We Be More"
+  },
+  {
+   "id": "DwK5NZqDTEU",
+   "title": "Homework",
+   "artist": "Marian McPartland",
+   "album": "Contrasts"
+  },
+  {
+   "id": "YocX4VbthxU",
+   "title": "Ascent",
+   "artist": "GoGo Penguin",
+   "album": "Between Two Waves"
+  },
+  {
+   "id": "N51gU9rZJAs",
+   "title": "Jihad Joe",
+   "artist": "Christian Scott",
+   "album": "Christian aTunde Adjuah"
+  },
+  {
+   "id": "znB6GDpRaAI",
+   "title": "Assassin",
+   "artist": "The Fearless Flyers",
+   "album": "Tailwinds"
+  },
+  {
+   "id": "5Cx-6RwtyJo",
+   "title": "So Beautiful (Live At Capitol Studios / 2014)",
+   "artist": "Robert Glasper",
+   "album": "Covered (The Robert Glasper Trio Recorded Live At Capitol Studios)"
+  },
+  {
+   "id": "wmqEWG_xb4w",
+   "title": "Green",
+   "artist": "Robohands",
+   "album": "Green"
+  },
+  {
+   "id": "2AeejiyGum8",
+   "title": "Close but No Cigar",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "Close but No Cigar"
+  },
+  {
+   "id": "93QUlxouihM",
+   "title": "I Don't Need No Doctor (feat. John Mayer)",
+   "artist": "John Scofield",
+   "album": "That's What I Say"
+  },
+  {
+   "id": "aCDIJy4LvDY",
+   "title": "Hole In One",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "I Told You So"
+  },
+  {
+   "id": "WG8HYBIcHVI",
+   "title": "Girly Face",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "I Told You So"
+  },
+  {
+   "id": "iblmdvh7qgI",
+   "title": "From The Streets",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "I Told You So"
+  },
+  {
+   "id": "qb0-qu2vP44",
+   "title": "Fo Sho",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "I Told You So"
+  },
+  {
+   "id": "aZPOUq9-11w",
+   "title": "Aces",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "I Told You So"
+  },
+  {
+   "id": "ZfrHLWhzmlI",
+   "title": "Careless Whisper",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "I Told You So"
+  },
+  {
+   "id": "7Dx6SYBNOjQ",
+   "title": "Right Place, Right Time",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "I Told You So"
+  },
+  {
+   "id": "s0qQD4Hv668",
+   "title": "I Don't Know",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "I Told You So"
+  },
+  {
+   "id": "As1lsp8APmg",
+   "title": "Pull Your Pants Up",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "Cold As Weiss"
+  },
+  {
+   "id": "MgJO9IMVQHI",
+   "title": "Don't Worry 'Bout What I Do",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "Cold As Weiss"
+  },
+  {
+   "id": "-0AZ5f6AZ94",
+   "title": "I Wanna Be Where You Are",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "Cold As Weiss"
+  },
+  {
+   "id": "4XbLGT5JLi8",
+   "title": "Big TT's Blues",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "Cold As Weiss"
+  },
+  {
+   "id": "J43UBYDaq-Q",
+   "title": "Get Da Steppin'",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "Cold As Weiss"
+  },
+  {
+   "id": "kxoDld7zF3Q",
+   "title": "Uncertainty",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "Cold As Weiss"
+  },
+  {
+   "id": "zmyiFINJ2o0",
+   "title": "Keep On Keepin' On",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "Cold As Weiss"
+  },
+  {
+   "id": "IlXrxId-KzA",
+   "title": "Slip 'N' Slide",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "Cold As Weiss"
+  },
+  {
+   "id": "UvDMMa71in4",
+   "title": "This Is Who I Is",
+   "artist": "Delvon Lamarr Organ Trio",
+   "album": "Cold As Weiss"
+  }
+ ],
+ "count": 97,
+ "at": "2026-10-27T17:13:07.450Z",
+ "updated": "2026-10-27T18:01:49.464Z"
+}

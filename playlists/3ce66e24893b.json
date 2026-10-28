@@ -1,0 +1,518 @@
+{
+ "id": "3ce66e24893b",
+ "name": "Indie & Alt",
+ "genres": [
+  "indie",
+  "alternative"
+ ],
+ "by": "Dan",
+ "tracks": [
+  {
+   "id": "74YMgSCvKjw",
+   "title": "Parentheses",
+   "artist": "The Blow",
+   "album": ""
+  },
+  {
+   "id": "MO1HSfzK1Ns",
+   "title": "\"Come On Petunia\"",
+   "artist": "The Blow",
+   "album": ""
+  },
+  {
+   "id": "N0CCwX-1ezU",
+   "title": "Tall Cans In The Air",
+   "artist": "Transplants",
+   "album": "Transplants"
+  },
+  {
+   "id": "RJx_nW7bXOY",
+   "title": "Electric Fever",
+   "artist": "Them Vibes",
+   "album": "Electric Fever"
+  },
+  {
+   "id": "s0-MbFY0RG0",
+   "title": "Who Put the Bomb",
+   "artist": "Jaakko Eino Kalevi",
+   "album": "Modern Life"
+  },
+  {
+   "id": "tZVs2Md01-E",
+   "title": "2young",
+   "artist": "Stop Light Observations",
+   "album": "2young"
+  },
+  {
+   "id": "Ib-xxG6Zrcg",
+   "title": "The Car Song",
+   "artist": "Geordie Kieffer",
+   "album": "Agro Pop"
+  },
+  {
+   "id": "TBJ8MxGEdN0",
+   "title": "I Know What I Am (Remastered 2024)",
+   "artist": "Band Of Skulls",
+   "album": "Baby Darling Doll Face Honey (Remastered 2024)"
+  },
+  {
+   "id": "67CN8FOCc84",
+   "title": "Dancing in the Moonlight",
+   "artist": "Toploader",
+   "album": "Onka's Big Moka"
+  },
+  {
+   "id": "AIJ4KJpndOw",
+   "title": "Class Historian",
+   "artist": "BRONCHO",
+   "album": "Just Enough Hip to Be Woman"
+  },
+  {
+   "id": "J0OjoY1Fk4k",
+   "title": "Daisies",
+   "artist": "White Reaper",
+   "album": "The World's Best American Band"
+  },
+  {
+   "id": "T2GKcxHvd7w",
+   "title": "Rolling On",
+   "artist": "The Murlocs",
+   "album": "Young Blindness"
+  },
+  {
+   "id": "IiWzGA6C6U0",
+   "title": "Hard Working Hand",
+   "artist": "Luke Temple",
+   "album": "Good Mood Fool"
+  },
+  {
+   "id": "HAYt1h3TUmA",
+   "title": "Ends Meet",
+   "artist": "Panda Bear",
+   "album": "Ends Meet"
+  },
+  {
+   "id": "l1JuuLmbiTI",
+   "title": "Juice",
+   "artist": "Camp Howard",
+   "album": "Juice"
+  },
+  {
+   "id": "VieJgULK7ck",
+   "title": "Foam",
+   "artist": "Royel Otis",
+   "album": "PRATTS & PAIN"
+  },
+  {
+   "id": "pGjvMMiQEUE",
+   "title": "Jetlag Love",
+   "artist": "Fully Bold",
+   "album": "Bye Bye Beethoven"
+  },
+  {
+   "id": "le6Af2nnoHc",
+   "title": "No Sex For Ben",
+   "artist": "The Rapture",
+   "album": "The Music of Grand Theft Auto IV"
+  },
+  {
+   "id": "9ewlqAMDJao",
+   "title": "Only for You",
+   "artist": "Heartless Bastards",
+   "album": "Arrow (10th Anniversary Deluxe Edition)"
+  },
+  {
+   "id": "826mxiKjoP0",
+   "title": "The Adults Are Talking",
+   "artist": "The Strokes",
+   "album": "The New Abnormal"
+  },
+  {
+   "id": "liYmtzt1lOE",
+   "title": "Help I'm Alive",
+   "artist": "Metric",
+   "album": "Fantasies"
+  },
+  {
+   "id": "h4CIAcOj1GM",
+   "title": "Get to Know Me",
+   "artist": "REAVE",
+   "album": "Get to Know Me"
+  },
+  {
+   "id": "Zrck6SV6T4M",
+   "title": "High",
+   "artist": "Sir Sly",
+   "album": "Don't You Worry, Honey"
+  },
+  {
+   "id": "BgRMH0eGge8",
+   "title": "Primrose Hill (feat. Sean Ono Lennon)",
+   "artist": "James McCartney",
+   "album": "Primrose Hill"
+  },
+  {
+   "id": "Do7Ubnhb-fU",
+   "title": "Playing God",
+   "artist": "Polyphia",
+   "album": "Remember That You Will Die"
+  },
+  {
+   "id": "Mcp6QUBJnq4",
+   "title": "Mi Negrita",
+   "artist": "Devendra Banhart",
+   "album": "Mala"
+  },
+  {
+   "id": "lmfThm_pxcY",
+   "title": "When I'm Small",
+   "artist": "Phantogram",
+   "album": "Eyelid Movies"
+  },
+  {
+   "id": "q-hKp8w33FE",
+   "title": "I Think I'm Paranoid",
+   "artist": "Garbage",
+   "album": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)"
+  },
+  {
+   "id": "_3NOc-ohBt4",
+   "title": "Pink Sun",
+   "artist": "The Field",
+   "album": "The Follower"
+  },
+  {
+   "id": "_tpifn13W6U",
+   "title": "II. Pantagruelian Offenses & Encounters: Daggers Drawn",
+   "artist": "Minus 5",
+   "album": "Down With Wilco"
+  },
+  {
+   "id": "GRaKBBQwJZE",
+   "title": "Left & Right in the Dark",
+   "artist": "Julian Casablancas",
+   "album": "Phrazes For The Young"
+  },
+  {
+   "id": "lkbV-gTL48k",
+   "title": "Consolation Prizes",
+   "artist": "Phoenix",
+   "album": "It's Never Been Like that"
+  },
+  {
+   "id": "T5wLAB9X8y0",
+   "title": "This Is the Life",
+   "artist": "Two Door Cinema Club",
+   "album": "Tourist History"
+  },
+  {
+   "id": "9MGUfDhS3MQ",
+   "title": "So Long",
+   "artist": "Fruit Bats",
+   "album": "Dirty Work Soundtrack (Music from the Original Series) - EP"
+  },
+  {
+   "id": "b7EY9TZbXi0",
+   "title": "Coyote",
+   "artist": "DOPE LEMON",
+   "album": "Honey Bones"
+  },
+  {
+   "id": "ylBnxjUr40c",
+   "title": "Get Yourself Together",
+   "artist": "The Black Keys",
+   "album": "\"Let's Rock\""
+  },
+  {
+   "id": "1Th6c84DJcI",
+   "title": "Back To This",
+   "artist": "Helio Sequence",
+   "album": "Keep Your Eyes Ahead"
+  },
+  {
+   "id": "CTHLqEf9vhY",
+   "title": "Between the Rent and Me",
+   "artist": "Snowden",
+   "album": "Anti-Anti"
+  },
+  {
+   "id": "D5oPoLE2baU",
+   "title": "Choo Choo",
+   "artist": "Mac DeMarco",
+   "album": "Here Comes The Cowboy"
+  },
+  {
+   "id": "ak4RrOzlH-g",
+   "title": "Nobody",
+   "artist": "Mac DeMarco",
+   "album": "Here Comes The Cowboy"
+  },
+  {
+   "id": "_wO9HWQ2YMA",
+   "title": "The Bottom of It",
+   "artist": "Fruit Bats",
+   "album": "Gold Past Life"
+  },
+  {
+   "id": "etm6CAzqoKE",
+   "title": "The Spot",
+   "artist": "Your Smith",
+   "album": "Bad Habit"
+  },
+  {
+   "id": "hQgLlwq1pr8",
+   "title": "Getting To Me",
+   "artist": "Caroline Rose",
+   "album": "LONER"
+  },
+  {
+   "id": "bnI7M7eVV9I",
+   "title": "LOSER",
+   "artist": "Kenshi Yonezu",
+   "album": "BOOTLEG"
+  },
+  {
+   "id": "e-pd0cyg-8Y",
+   "title": "Tegucigalpa",
+   "artist": "Fruit Bats",
+   "album": "The Ruminant Band"
+  },
+  {
+   "id": "s-Nq9fNMwe8",
+   "title": "The Sad Milkman",
+   "artist": "Andrew Bird",
+   "album": "Things Are Really Great Here, Sort Of..."
+  },
+  {
+   "id": "hJ_nX9dC2VE",
+   "title": "Bones",
+   "artist": "Little Hurricane",
+   "album": "Gold Fever"
+  },
+  {
+   "id": "g45X6Mccck4",
+   "title": "Turn Me Loose",
+   "artist": "The Record Company",
+   "album": "Give It Back To You"
+  },
+  {
+   "id": "legh82Ga-4U",
+   "title": "Water Fountain",
+   "artist": "Tune-Yards",
+   "album": "Nikki Nack"
+  },
+  {
+   "id": "Lm0UNtWPqfs",
+   "title": "Season 2 Episode 3",
+   "artist": "Glass Animals",
+   "album": "How To Be A Human Being"
+  },
+  {
+   "id": "m1wRvR11iGA",
+   "title": "Sinner",
+   "artist": "Jeremy Loops",
+   "album": "Trading Change (Deluxe Edition)"
+  },
+  {
+   "id": "HNSudWyFxgI",
+   "title": "My Only Swerving",
+   "artist": "El Ten Eleven",
+   "album": "El Ten Eleven"
+  },
+  {
+   "id": "GQsDFh7BPAQ",
+   "title": "It’s All Good",
+   "artist": "Superorganism",
+   "album": "Superorganism"
+  },
+  {
+   "id": "sMpZCtQ-J8E",
+   "title": "Rita Mae Young",
+   "artist": "The Record Company",
+   "album": "Give It Back To You"
+  },
+  {
+   "id": "-qTIbE40BzI",
+   "title": "Jellyfish Blues - 2022 Remastered",
+   "artist": "Buffalo Daughter",
+   "album": "New Rock (2022 Remastered)"
+  },
+  {
+   "id": "IAWLJhzg4wU",
+   "title": "Van Helsing Boombox",
+   "artist": "Man Man",
+   "album": "Six Demon Bag"
+  },
+  {
+   "id": "3PB7fVdcfk0",
+   "title": "Shine Your Light",
+   "artist": "Gap Dream",
+   "album": "Shine Your Light"
+  },
+  {
+   "id": "4fQGsiiEXlA",
+   "title": "Companions",
+   "artist": "The Dodos",
+   "album": "No Color"
+  },
+  {
+   "id": "QoAdm1CRA-8",
+   "title": "I'm So Free",
+   "artist": "Beck",
+   "album": "Colors"
+  },
+  {
+   "id": "PSYOBAvMiFg",
+   "title": "Collision",
+   "artist": "The Steepwater Band",
+   "album": "Revelation Sunday"
+  },
+  {
+   "id": "5gmHJA8Yyv4",
+   "title": "So Much Wine, Merry Christmas",
+   "artist": "Andrew Bird",
+   "album": "Things Are Really Great Here, Sort Of..."
+  },
+  {
+   "id": "filVPlpbZxM",
+   "title": "Digital Witness",
+   "artist": "St. Vincent",
+   "album": "St. Vincent (Deluxe Edition)"
+  },
+  {
+   "id": "Q7QEyMc-aeQ",
+   "title": "Cruel",
+   "artist": "St. Vincent",
+   "album": "Strange Mercy"
+  },
+  {
+   "id": "PSEvgJx8IKY",
+   "title": "Laughing with a Mouth of Blood",
+   "artist": "St. Vincent",
+   "album": "Actor"
+  },
+  {
+   "id": "dOM9PDAUUP8",
+   "title": "The Next Time Around",
+   "artist": "Little Joy",
+   "album": "Little Joy"
+  },
+  {
+   "id": "zD-I4_0_fpI",
+   "title": "Coffee in the Pot (2025 Remaster)",
+   "artist": "Supergrass",
+   "album": "Road to Rouen (20th Anniversary Edition)"
+  },
+  {
+   "id": "jvdXdzgeUoA",
+   "title": "Polish Girl",
+   "artist": "Neon Indian",
+   "album": "Era Extraña"
+  },
+  {
+   "id": "uAC8-7kxcVk",
+   "title": "Emma Blowgun's Last Stand",
+   "artist": "Beulah",
+   "album": "When Your Heartstrings Break"
+  },
+  {
+   "id": "Chf7pVWyCCM",
+   "title": "Gun Has No Trigger",
+   "artist": "Dirty Projectors",
+   "album": "Swing Lo Magellan"
+  },
+  {
+   "id": "lY5T-q2xuJ4",
+   "title": "Groping The Dark",
+   "artist": "Andrew Bird",
+   "album": "Echolocations: Canyon"
+  },
+  {
+   "id": "jr6Cp8tEmow",
+   "title": "Baby (feat. DamFunk)",
+   "artist": "Ariel Pink's Haunted Graffiti",
+   "album": "Mature Themes"
+  },
+  {
+   "id": "jw7rTZXLduI",
+   "title": "Two Fingers",
+   "artist": "Jake Bugg",
+   "album": "Jake Bugg"
+  },
+  {
+   "id": "1uGFKoBKwCs",
+   "title": "Goodnight, Travel Well",
+   "artist": "The Killers",
+   "album": "Day & Age (Bonus Tracks)"
+  },
+  {
+   "id": "M-3E7viWfYQ",
+   "title": "Alewife",
+   "artist": "Clairo",
+   "album": "Immunity"
+  },
+  {
+   "id": "9iqWhogkSs8",
+   "title": "Impossible",
+   "artist": "Clairo",
+   "album": "Immunity"
+  },
+  {
+   "id": "0EHw0GyoCoc",
+   "title": "Closer To You",
+   "artist": "Clairo",
+   "album": "Immunity"
+  },
+  {
+   "id": "Mi6rjK4JTq4",
+   "title": "North",
+   "artist": "Clairo",
+   "album": "Immunity"
+  },
+  {
+   "id": "EXMGG_06DJ4",
+   "title": "Bags",
+   "artist": "Clairo",
+   "album": "Immunity"
+  },
+  {
+   "id": "Ve6aa6Xzm8E",
+   "title": "Softly",
+   "artist": "Clairo",
+   "album": "Immunity"
+  },
+  {
+   "id": "xF1Yu-amFfk",
+   "title": "Sofia",
+   "artist": "Clairo",
+   "album": "Immunity"
+  },
+  {
+   "id": "aR-HiYvqS_A",
+   "title": "White Flag",
+   "artist": "Clairo",
+   "album": "Immunity"
+  },
+  {
+   "id": "MgAToTupbrI",
+   "title": "Feel Something",
+   "artist": "Clairo",
+   "album": "Immunity"
+  },
+  {
+   "id": "Uzwk56Wb_Uo",
+   "title": "Sinking",
+   "artist": "Clairo",
+   "album": "Immunity"
+  },
+  {
+   "id": "0y96nTb3okM",
+   "title": "I Wouldn't Ask You",
+   "artist": "Clairo",
+   "album": "Immunity"
+  }
+ ],
+ "count": 84,
+ "at": "2026-10-27T17:12:21.967Z",
+ "updated": "2026-10-28T05:17:25.273Z"
+}

@@ -1,0 +1,967 @@
+{
+ "id": "f54c1c910481",
+ "name": "Classic Soul & Funk",
+ "genres": [
+  "soul-funk"
+ ],
+ "by": "Dan",
+ "tracks": [
+  {
+   "id": "U2Llx_cbfZs",
+   "title": "Its Got To Be Alright",
+   "artist": "Gordon Staples & The String Thing",
+   "album": "Strung Out"
+  },
+  {
+   "id": "Ta1F0rMHa-0",
+   "title": "(It's Not The Express) It's The J.B.'s Monaurail (Pts. 1 & 2 / Single Version)",
+   "artist": "The J.B.'s",
+   "album": "Hustle With Speed"
+  },
+  {
+   "id": "3JEo3oBYCCg",
+   "title": "All Aboard The Soul Funky Train",
+   "artist": "The J.B.'s",
+   "album": "Hustle With Speed"
+  },
+  {
+   "id": "aXTCVaq_fKs",
+   "title": "Give Me The Sunshine",
+   "artist": "Leo's Sunshipp",
+   "album": "We Need Each Other"
+  },
+  {
+   "id": "aHLQMGA9R0E",
+   "title": "Spinning Wheel (1994 Remaster)",
+   "artist": "Shirley Bassey",
+   "album": "Something"
+  },
+  {
+   "id": "2MC4bIQ1_pM",
+   "title": "Smile of a Stranger",
+   "artist": "Dominic Sands",
+   "album": "70's Cool, Vol. 1"
+  },
+  {
+   "id": "wwFFZqLwlEk",
+   "title": "Kools Back Again",
+   "artist": "Kool & The Gang",
+   "album": "Kool And The Gang"
+  },
+  {
+   "id": "A4JWkW0oROg",
+   "title": "I Got The... (2006 Remaster)",
+   "artist": "Labi Siffre",
+   "album": "Remember My Song"
+  },
+  {
+   "id": "MkF_u-_mm0Q",
+   "title": "We Can Work It Out",
+   "artist": "Stevie Wonder",
+   "album": "Signed, Sealed And Delivered"
+  },
+  {
+   "id": "WV9axjWCAUY",
+   "title": "Chicago Falcon",
+   "artist": "The Budos Band",
+   "album": "The Budos Band II"
+  },
+  {
+   "id": "pQtWp2fItao",
+   "title": "Bring It on Home",
+   "artist": "George Duke",
+   "album": "Reach For It"
+  },
+  {
+   "id": "NQVMuGCIOGY",
+   "title": "Stay High",
+   "artist": "Brittany Howard",
+   "album": "Jaime"
+  },
+  {
+   "id": "J1IFV1ncIOQ",
+   "title": "Sunshower",
+   "artist": "Dr. Buzzard's Original Savannah Band",
+   "album": "Dr. Buzzard's Original Savannah Band"
+  },
+  {
+   "id": "spQbjqnMvVw",
+   "title": "Crumble",
+   "artist": "G. Love & Special Sauce",
+   "album": "Superhero Brother"
+  },
+  {
+   "id": "KKd3GY03EyI",
+   "title": "Long Way Home",
+   "artist": "Durand Jones & The Indications & Durand Jones",
+   "album": "American Love Call"
+  },
+  {
+   "id": "SzSZ6_rUyXQ",
+   "title": "Ace of Aces",
+   "artist": "The Fearless Flyers",
+   "album": "The Fearless Flyers"
+  },
+  {
+   "id": "xsz_7Q4XHiE",
+   "title": "Aunt Leslie (feat. Antwaun Stanley)",
+   "artist": "Vulfpeck",
+   "album": "The Beautiful Game"
+  },
+  {
+   "id": "JGkDKZYzN1o",
+   "title": "Got To Give It Up (Pt. 1)",
+   "artist": "Marvin Gaye",
+   "album": "20th Century Masters: The Millennium Collection: The Best Of Marvin Gaye, Vol 2: The 70's"
+  },
+  {
+   "id": "_ieSieg1Lnk",
+   "title": "Hurry and Enjoy",
+   "artist": "Skinshape",
+   "album": "Life & Love"
+  },
+  {
+   "id": "1OpJQp0bPkU",
+   "title": "It Rains Love",
+   "artist": "Lee Fields & The Expressions",
+   "album": "It Rains Love"
+  },
+  {
+   "id": "aIuF78k4JrI",
+   "title": "All Day, All Night",
+   "artist": "The California Honeydrops",
+   "album": "Like You Mean It"
+  },
+  {
+   "id": "biHseX5QE60",
+   "title": "Till The End",
+   "artist": "Curtis Harding",
+   "album": "Face Your Fear"
+  },
+  {
+   "id": "xB6aGw33nW0",
+   "title": "The Oligarch",
+   "artist": "Ephemerals",
+   "album": "Nothin Is Easy (Deluxe Edition)"
+  },
+  {
+   "id": "LCS6UapkgQE",
+   "title": "My God Has A Telephone",
+   "artist": "The Flying Stars Of Brooklyn NY & Aaron Frazer",
+   "album": "My God Has a Telephone"
+  },
+  {
+   "id": "OXtz5HjJtC4",
+   "title": "Beggin'",
+   "artist": "Monophonics",
+   "album": "Mirrors"
+  },
+  {
+   "id": "S-9J8LF8BkA",
+   "title": "Take My Time",
+   "artist": "Skinshape",
+   "album": "Life & Love"
+  },
+  {
+   "id": "QK9yfPpS_co",
+   "title": "For You",
+   "artist": "Greyhounds",
+   "album": "Change of Pace"
+  },
+  {
+   "id": "3ykWskqHNSw",
+   "title": "Mason Jar",
+   "artist": "Mingo Fishtrap",
+   "album": "On Time"
+  },
+  {
+   "id": "-fRCjynj31Q",
+   "title": "Up Above My Head (Live)",
+   "artist": "The California Honeydrops",
+   "album": "Honeydrops Live"
+  },
+  {
+   "id": "Lf8LyA6Ypr8",
+   "title": "Here Comes Love",
+   "artist": "The California Honeydrops",
+   "album": "Like You Mean It"
+  },
+  {
+   "id": "PUGf-66H2GQ",
+   "title": "In the Night",
+   "artist": "Saun & Starr",
+   "album": "Daptone Records Singles Collection: Volume 3"
+  },
+  {
+   "id": "lM5T-ZYKKws",
+   "title": "Like You Mean It",
+   "artist": "The California Honeydrops",
+   "album": "Like You Mean It"
+  },
+  {
+   "id": "HdlKJWIidoU",
+   "title": "Make Some Room",
+   "artist": "The Suffers",
+   "album": "The Suffers"
+  },
+  {
+   "id": "fy8IeWNFUoY",
+   "title": "100 Yard Dash",
+   "artist": "Raphael Saadiq",
+   "album": "The Way I See It"
+  },
+  {
+   "id": "bMTn1WR4hZI",
+   "title": "Waves",
+   "artist": "St. Paul & The Broken Bones",
+   "album": "Sea of Noise"
+  },
+  {
+   "id": "rJpBhVWDdPs",
+   "title": "Back Pocket (feat. Theo Katzman, Christine Hucal & Mark Dover)",
+   "artist": "Vulfpeck",
+   "album": "Thrill of the Arts"
+  },
+  {
+   "id": "qMu5SAVkuRM",
+   "title": "Pass The Peas",
+   "artist": "The J.B.'s",
+   "album": "Food For Thought"
+  },
+  {
+   "id": "LhTzMqDHMnQ",
+   "title": "I Can See Everything",
+   "artist": "JC Brooks & The Uptown Sound",
+   "album": "Want More"
+  },
+  {
+   "id": "7v2KiOj-YWs",
+   "title": "Sugarfoot",
+   "artist": "Black Joe Lewis & The Honeybears",
+   "album": "Tell 'Em What Your Name Is!"
+  },
+  {
+   "id": "bBh71Sl1i2Y",
+   "title": "Sound & Color",
+   "artist": "Alabama Shakes",
+   "album": "Sound & Color"
+  },
+  {
+   "id": "jFRtA6ETZ8s",
+   "title": "I Wish I Knew How It Would Feel to Be Free",
+   "artist": "Nina Simone",
+   "album": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl"
+  },
+  {
+   "id": "04WVd7qyRso",
+   "title": "Too Close",
+   "artist": "LaVern Baker",
+   "album": "Precious Memories: LaVern Baker Sings Gospel"
+  },
+  {
+   "id": "gIsj8VxQNkw",
+   "title": "O-o-h Child",
+   "artist": "The Five Stairsteps",
+   "album": "The First Family of Soul: The Best of The Five Stairsteps"
+  },
+  {
+   "id": "Gx1ht5qqq1I",
+   "title": "(I Can) Deal with That",
+   "artist": "Dee Edwards",
+   "album": "Searching for Soul: Soul, Funk & Jazz Rarities from Michigan 1968-1980"
+  },
+  {
+   "id": "T0-fJxhQLiU",
+   "title": "It's Your Thing",
+   "artist": "Dyke & The Blazers",
+   "album": "Rarities Volume 1 - Phoenix to Hollywood"
+  },
+  {
+   "id": "dI43XyuNclk",
+   "title": "You Are My Sunshine",
+   "artist": "Dyke & The Blazers",
+   "album": "Dyke's Greatest Hits - The Complete Singles"
+  },
+  {
+   "id": "fIMHtajyeXM",
+   "title": "Haboglabotribin'",
+   "artist": "Bernard Wright",
+   "album": "'Nard"
+  },
+  {
+   "id": "qAZPt5nl2iE",
+   "title": "Blessed with the Best",
+   "artist": "Lee Fields & The Expressions",
+   "album": "It Rains Love"
+  },
+  {
+   "id": "8x-Kz_MI7vY",
+   "title": "Two Faces",
+   "artist": "Lee Fields & The Expressions",
+   "album": "It Rains Love"
+  },
+  {
+   "id": "gjiSE7kNnBQ",
+   "title": "You’re What’s Needed in My Life",
+   "artist": "Lee Fields & The Expressions",
+   "album": "It Rains Love"
+  },
+  {
+   "id": "4tkq3Fsgte4",
+   "title": "Wake Up",
+   "artist": "Lee Fields & The Expressions",
+   "album": "It Rains Love"
+  },
+  {
+   "id": "dESRdaXrMII",
+   "title": "Will I Get Off Easy",
+   "artist": "Lee Fields & The Expressions",
+   "album": "It Rains Love"
+  },
+  {
+   "id": "X2yKn-ZMWkg",
+   "title": "Love Prisoner",
+   "artist": "Lee Fields & The Expressions",
+   "album": "It Rains Love"
+  },
+  {
+   "id": "2A5bMaQkVxI",
+   "title": "A Promise Is a Promise",
+   "artist": "Lee Fields & The Expressions",
+   "album": "It Rains Love"
+  },
+  {
+   "id": "XYuXZU4LDZ8",
+   "title": "God Is Real",
+   "artist": "Lee Fields & The Expressions",
+   "album": "It Rains Love"
+  },
+  {
+   "id": "7eAG6BB7vUU",
+   "title": "Love Is the Answer",
+   "artist": "Lee Fields & The Expressions",
+   "album": "It Rains Love"
+  },
+  {
+   "id": "R71v8hdeEqY",
+   "title": "You Ain't The Problem",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "WeRQ_Essido",
+   "title": "Rolling",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "HEqeRL4LRuE",
+   "title": "I've Been Dazed",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "NPOyFQQvXJ4",
+   "title": "Piano Joint (This Kind Of Love) (Intro)",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "0PVN31NuYNo",
+   "title": "Piano Joint (This Kind Of Love)",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "1j1vgmZAnrA",
+   "title": "Another Human Being",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "YM5U3h8uITM",
+   "title": "Living In Denial",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "z7eYrvS-OE8",
+   "title": "Hero (Intro)",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "JP73BVeWlrw",
+   "title": "Hero",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "786dl0llF4c",
+   "title": "Hard To Say Goodbye",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "t7egVrhFaFU",
+   "title": "Final Days",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "YHPxzrAvWS0",
+   "title": "Interlude (Loving The People)",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "zO_wmEzfMRY",
+   "title": "Solid Ground",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "RCDsiBLZPnk",
+   "title": "Light",
+   "artist": "Michael Kiwanuka",
+   "album": "KIWANUKA"
+  },
+  {
+   "id": "aHzKk0rn2B4",
+   "title": "History Repeats",
+   "artist": "Brittany Howard",
+   "album": "Jaime"
+  },
+  {
+   "id": "BIyAdURm5AU",
+   "title": "He Loves Me",
+   "artist": "Brittany Howard",
+   "album": "Jaime"
+  },
+  {
+   "id": "zKqC6p5_frU",
+   "title": "Georgia",
+   "artist": "Brittany Howard",
+   "album": "Jaime"
+  },
+  {
+   "id": "G1ZmoIxlZSQ",
+   "title": "Tomorrow",
+   "artist": "Brittany Howard",
+   "album": "Jaime"
+  },
+  {
+   "id": "SNCoBWW0sgU",
+   "title": "Short and Sweet",
+   "artist": "Brittany Howard",
+   "album": "Jaime"
+  },
+  {
+   "id": "AjqoJcHLmLM",
+   "title": "13th Century Metal",
+   "artist": "Brittany Howard",
+   "album": "Jaime"
+  },
+  {
+   "id": "YOVPTbPB8Xg",
+   "title": "Baby",
+   "artist": "Brittany Howard",
+   "album": "Jaime"
+  },
+  {
+   "id": "ZurHg3IuP2k",
+   "title": "Goat Head",
+   "artist": "Brittany Howard",
+   "album": "Jaime"
+  },
+  {
+   "id": "_NkDGOfOn1Y",
+   "title": "Presence",
+   "artist": "Brittany Howard",
+   "album": "Jaime"
+  },
+  {
+   "id": "q5Fp_jnNPcc",
+   "title": "Run To Me",
+   "artist": "Brittany Howard",
+   "album": "Jaime"
+  },
+  {
+   "id": "R0DkEcYvVmc",
+   "title": "Morning In America",
+   "artist": "Durand Jones & The Indications & Durand Jones",
+   "album": "American Love Call"
+  },
+  {
+   "id": "jdoe4n9516I",
+   "title": "Don't You Know",
+   "artist": "Durand Jones & The Indications, Durand Jones & Aaron Frazer",
+   "album": "American Love Call"
+  },
+  {
+   "id": "pmlO_Vbe4qs",
+   "title": "Circles",
+   "artist": "Durand Jones & The Indications & Durand Jones",
+   "album": "American Love Call"
+  },
+  {
+   "id": "MHu11yPdatg",
+   "title": "Court of Love",
+   "artist": "Durand Jones & The Indications & Aaron Frazer",
+   "album": "American Love Call"
+  },
+  {
+   "id": "YVgvEiE7Lwo",
+   "title": "Too Many Tears",
+   "artist": "Durand Jones & The Indications & Aaron Frazer",
+   "album": "American Love Call"
+  },
+  {
+   "id": "JRoQ3pU4i1k",
+   "title": "Walk Away",
+   "artist": "Durand Jones & The Indications & Durand Jones",
+   "album": "American Love Call"
+  },
+  {
+   "id": "CN-GOo8BeF8",
+   "title": "What I Know About You",
+   "artist": "Durand Jones & The Indications, Durand Jones & Aaron Frazer",
+   "album": "American Love Call"
+  },
+  {
+   "id": "jcwF7WlqrN0",
+   "title": "Listen to Your Heart",
+   "artist": "Durand Jones & The Indications & Durand Jones",
+   "album": "American Love Call"
+  },
+  {
+   "id": "HGKwkYpB3fI",
+   "title": "Sea Gets Hotter",
+   "artist": "Durand Jones & The Indications, Durand Jones & Aaron Frazer",
+   "album": "American Love Call"
+  },
+  {
+   "id": "Ouut4xyeOIU",
+   "title": "How Can I Be Sure",
+   "artist": "Durand Jones & The Indications & Aaron Frazer",
+   "album": "American Love Call"
+  },
+  {
+   "id": "L8demwJ3318",
+   "title": "True Love",
+   "artist": "Durand Jones & The Indications & Durand Jones",
+   "album": "American Love Call"
+  },
+  {
+   "id": "SHoT1n_w8oI",
+   "title": "Ain't Necessary (The Prince)",
+   "artist": "The Dip",
+   "album": "The Dip"
+  },
+  {
+   "id": "H0Kq0rCg0kY",
+   "title": "Don't Make Me Wait",
+   "artist": "The Dip",
+   "album": "The Dip"
+  },
+  {
+   "id": "Sd8gHy24568",
+   "title": "Candice (In the Morning)",
+   "artist": "The Dip",
+   "album": "The Dip"
+  },
+  {
+   "id": "st_UktHsgiU",
+   "title": "State Line",
+   "artist": "The Dip",
+   "album": "The Dip"
+  },
+  {
+   "id": "_qC1p3VPNpE",
+   "title": "O.P. Jebediah",
+   "artist": "The Dip",
+   "album": "The Dip"
+  },
+  {
+   "id": "Vp3sRWO6MWI",
+   "title": "The Dip (Parts I & II)",
+   "artist": "The Dip",
+   "album": "The Dip"
+  },
+  {
+   "id": "RzDrpkwBvFQ",
+   "title": "Working Man",
+   "artist": "The Dip",
+   "album": "The Dip"
+  },
+  {
+   "id": "OsMK1n6JZl4",
+   "title": "Tryin'",
+   "artist": "The Dip",
+   "album": "The Dip"
+  },
+  {
+   "id": "V7n-8c1IgZY",
+   "title": "Solstice",
+   "artist": "The Dip",
+   "album": "The Dip"
+  },
+  {
+   "id": "OmvaJYGuvCE",
+   "title": "I'm Lonely",
+   "artist": "The Dip",
+   "album": "The Dip"
+  },
+  {
+   "id": "nK1LzNzpqrk",
+   "title": "Ready to Go",
+   "artist": "The Dip",
+   "album": "The Dip"
+  },
+  {
+   "id": "ZjnNKGOK-cA",
+   "title": "Save It for the First Time",
+   "artist": "Scary Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "NJ38qTd1_mQ",
+   "title": "We Come in Peace",
+   "artist": "Scary Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "nI127r0enp8",
+   "title": "Larry Pockets",
+   "artist": "Scary Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "GQVV3QuZ648",
+   "title": "Scary Poppins",
+   "artist": "Scary Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "hF5aaWavxKY",
+   "title": "Welcome to Highland Park",
+   "artist": "Scary Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "tgCAHjPmZ4Y",
+   "title": "Detective Johannsen",
+   "artist": "Scary Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "2s6OROSvduU",
+   "title": "Day Old Socks",
+   "artist": "Scary Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "R0ztQ56vJfo",
+   "title": "Stank for the Memories",
+   "artist": "Scary Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "76w5v3PzIQM",
+   "title": "Save It For The First Time",
+   "artist": "Scary Pockets & Larry Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "xXiMKPLi9Xo",
+   "title": "We Come In Peace",
+   "artist": "Scary Pockets & Larry Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "fdprOT-Fxpw",
+   "title": "Larry Pockets",
+   "artist": "Scary Pockets & Larry Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "HKmLtTxiclg",
+   "title": "Scary Poppins",
+   "artist": "Scary Pockets & Larry Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "MfD5dU7eBME",
+   "title": "Welcome to Highland Park",
+   "artist": "Scary Pockets & Larry Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "SCuKTX1sdPg",
+   "title": "Detective Johansen",
+   "artist": "Scary Pockets & Larry Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "p3BzGnEYVjA",
+   "title": "Day Old Socks",
+   "artist": "Scary Pockets & Larry Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "-GZcGlorqzg",
+   "title": "Stank For The Memories",
+   "artist": "Scary Pockets & Larry Goldings",
+   "album": "Scary Goldings"
+  },
+  {
+   "id": "LrxeQUXzDGA",
+   "title": "The Shakes",
+   "artist": "Scary Goldings",
+   "album": "Feel."
+  },
+  {
+   "id": "DwcNO1xw-pE",
+   "title": "Louis Cole Sucks (feat. Louis Cole)",
+   "artist": "Scary Goldings",
+   "album": "Feel."
+  },
+  {
+   "id": "RpGKyn4iZuQ",
+   "title": "Equal Parts Timing & Romance",
+   "artist": "Scary Goldings",
+   "album": "Feel."
+  },
+  {
+   "id": "G4q5gpGtAMA",
+   "title": "Clem Fandango (feat. Josh Smith)",
+   "artist": "Scary Goldings",
+   "album": "Feel."
+  },
+  {
+   "id": "xaArLVB5hB0",
+   "title": "ASMR",
+   "artist": "Scary Goldings",
+   "album": "Feel."
+  },
+  {
+   "id": "F2uXBYG9YZs",
+   "title": "Chill Bill, Vol. 2 (feat. Josh Smith)",
+   "artist": "Scary Goldings",
+   "album": "Feel."
+  },
+  {
+   "id": "ATlq2837HEk",
+   "title": "Josh's Turnpike (feat. Josh Smith)",
+   "artist": "Scary Goldings",
+   "album": "Feel."
+  },
+  {
+   "id": "Rej-vRvePRU",
+   "title": "Bondgirl",
+   "artist": "Scary Goldings",
+   "album": "Feel."
+  },
+  {
+   "id": "neCzaCOmL7E",
+   "title": "Tacobell's Canon (feat. John Scofield)",
+   "artist": "Scary Goldings",
+   "album": "Tacobell's Canon"
+  },
+  {
+   "id": "tpbcbj0bR5o",
+   "title": "Can I Call You Rose?",
+   "artist": "Thee Sacred Souls",
+   "album": "Can I Call You Rose?"
+  },
+  {
+   "id": "9XV6DX30fjQ",
+   "title": "Overflowing",
+   "artist": "Thee Sacred Souls",
+   "album": "Thee Sacred Souls"
+  },
+  {
+   "id": "_p9q38pQ6es",
+   "title": "Easier Said Than Done",
+   "artist": "Thee Sacred Souls",
+   "album": "Thee Sacred Souls"
+  },
+  {
+   "id": "gFndWoAAi1k",
+   "title": "When My Train Pulls In",
+   "artist": "Gary Clark Jr.",
+   "album": "Blak and Blu"
+  },
+  {
+   "id": "2tiXbJF_Cco",
+   "title": "Bright Lights",
+   "artist": "Gary Clark Jr.",
+   "album": "Blak and Blu"
+  },
+  {
+   "id": "7KdVSh8jvto",
+   "title": "Cold Blooded",
+   "artist": "Gary Clark Jr.",
+   "album": "The Story of Sonny Boy Slim"
+  },
+  {
+   "id": "YOqu1t2ASAc",
+   "title": "Our Love",
+   "artist": "Gary Clark Jr.",
+   "album": "The Story of Sonny Boy Slim"
+  },
+  {
+   "id": "eA6i5oaTkTU",
+   "title": "Down to Ride",
+   "artist": "Gary Clark Jr.",
+   "album": "The Story of Sonny Boy Slim"
+  },
+  {
+   "id": "Iubc6Rcsb4Y",
+   "title": "Get Back To The Land (feat. Emma Donovan)",
+   "artist": "The Teskey Brothers",
+   "album": "Get Back To The Land"
+  },
+  {
+   "id": "t9-xIX7fzgI",
+   "title": "Crying Shame",
+   "artist": "The Teskey Brothers",
+   "album": "Half Mile Harvest"
+  },
+  {
+   "id": "rVTQ-5w0P10",
+   "title": "Say You'll Do",
+   "artist": "The Teskey Brothers",
+   "album": "Half Mile Harvest"
+  },
+  {
+   "id": "QQLFOAGpgmY",
+   "title": "Pain and Misery",
+   "artist": "The Teskey Brothers",
+   "album": "Half Mile Harvest"
+  },
+  {
+   "id": "8gVx33D6Ijw",
+   "title": "Shiny Moon",
+   "artist": "The Teskey Brothers",
+   "album": "Half Mile Harvest"
+  },
+  {
+   "id": "aDBNznyKMuA",
+   "title": "Reason Why",
+   "artist": "The Teskey Brothers",
+   "album": "Half Mile Harvest"
+  },
+  {
+   "id": "cMs-lga01yo",
+   "title": "I Get Up",
+   "artist": "The Teskey Brothers",
+   "album": "Half Mile Harvest"
+  },
+  {
+   "id": "gZqliRB50H8",
+   "title": "Louisa",
+   "artist": "The Teskey Brothers",
+   "album": "Half Mile Harvest"
+  },
+  {
+   "id": "wJoDNiNhlh0",
+   "title": "Til the Sky Turns Black",
+   "artist": "The Teskey Brothers",
+   "album": "Half Mile Harvest"
+  },
+  {
+   "id": "FCYdQXupVGg",
+   "title": "Hard Feeling",
+   "artist": "The Teskey Brothers",
+   "album": "Half Mile Harvest"
+  },
+  {
+   "id": "6ek1VcMDoeU",
+   "title": "Honeymoon",
+   "artist": "The Teskey Brothers",
+   "album": "Half Mile Harvest"
+  },
+  {
+   "id": "Ta6NGVC2F6A",
+   "title": "Let Me Let You Down",
+   "artist": "The Teskey Brothers",
+   "album": "Run Home Slow"
+  },
+  {
+   "id": "Nr0qqf7V9lU",
+   "title": "Carry You",
+   "artist": "The Teskey Brothers",
+   "album": "Run Home Slow"
+  },
+  {
+   "id": "zsydnu1Gfb4",
+   "title": "Man Of The Universe",
+   "artist": "The Teskey Brothers",
+   "album": "Run Home Slow"
+  },
+  {
+   "id": "bsTxpGjw3dw",
+   "title": "Hold Me",
+   "artist": "The Teskey Brothers",
+   "album": "Run Home Slow"
+  },
+  {
+   "id": "3MhB9EZ9wuo",
+   "title": "Paint My Heart",
+   "artist": "The Teskey Brothers",
+   "album": "Run Home Slow"
+  },
+  {
+   "id": "1djdupIazUA",
+   "title": "Rain",
+   "artist": "The Teskey Brothers",
+   "album": "Rain (Live At Red Rocks, 2023)"
+  },
+  {
+   "id": "ubIOVFc2AGE",
+   "title": "So Caught Up",
+   "artist": "The Teskey Brothers",
+   "album": "Run Home Slow"
+  },
+  {
+   "id": "Rzzafi8JJsY",
+   "title": "San Francisco",
+   "artist": "The Teskey Brothers",
+   "album": "Run Home Slow"
+  },
+  {
+   "id": "7tp7fBYgT4c",
+   "title": "Sunshine Baby",
+   "artist": "The Teskey Brothers",
+   "album": "Run Home Slow"
+  },
+  {
+   "id": "NF21-v_0hL4",
+   "title": "Sun Come Ease Me In",
+   "artist": "The Teskey Brothers",
+   "album": "Run Home Slow"
+  },
+  {
+   "id": "5WZQXtjKyns",
+   "title": "That Bird",
+   "artist": "The Teskey Brothers",
+   "album": "Run Home Slow"
+  },
+  {
+   "id": "BTQMk3ujFk0",
+   "title": "Easy (Live At Wembley, London, England - May 2001)",
+   "artist": "Lionel Richie",
+   "album": "Encore"
+  },
+  {
+   "id": "QCgeitX5xg0",
+   "title": "Lovely Day",
+   "artist": "Bill Withers",
+   "album": "Menagerie"
+  }
+ ],
+ "count": 159,
+ "at": "2026-10-27T17:10:38.901Z",
+ "updated": "2026-10-27T18:01:47.962Z"
+}

@@ -1,0 +1,578 @@
+{
+ "id": "2fb2043459fa",
+ "name": "Country, Folk & Americana",
+ "genres": [
+  "country",
+  "folk"
+ ],
+ "by": "Dan",
+ "tracks": [
+  {
+   "id": "WWnN48Nn7qA",
+   "title": "Reflections From The Moon",
+   "artist": "Speedy West",
+   "album": "Guitar Spectacular"
+  },
+  {
+   "id": "cvmdOKkGXHs",
+   "title": "Watermelon",
+   "artist": "Leo Kottke",
+   "album": "6- And 12-String Guitar"
+  },
+  {
+   "id": "TkXqkBCaiK4",
+   "title": "El Picador",
+   "artist": "Calexico",
+   "album": "Hot Rail"
+  },
+  {
+   "id": "CO7vTfkCbqo",
+   "title": "Ry Cooder - Canción Mixteca",
+   "artist": "li5andr0",
+   "album": ""
+  },
+  {
+   "id": "L8VsHlqsJvs",
+   "title": "Available Space",
+   "artist": "Ry Cooder",
+   "album": "Ry Cooder"
+  },
+  {
+   "id": "9wMQIOfCQls",
+   "title": "Tamp' Em up Solid",
+   "artist": "Ry Cooder",
+   "album": "Paradise and Lunch"
+  },
+  {
+   "id": "ParIMYd-QV0",
+   "title": "Paris, Texas",
+   "artist": "Ry Cooder",
+   "album": "Music by Ry Cooder"
+  },
+  {
+   "id": "iOGT2drN-lc",
+   "title": "Dark Is the Night",
+   "artist": "Ry Cooder",
+   "album": "Ry Cooder"
+  },
+  {
+   "id": "LBRiaig2J3w",
+   "title": "White Apple",
+   "artist": "Blind Pilot",
+   "album": "We Are the Tide"
+  },
+  {
+   "id": "QTZ1GBb0w3I",
+   "title": "Packed Powder",
+   "artist": "Blind Pilot",
+   "album": "And Then Like Lions"
+  },
+  {
+   "id": "vDtsgVgAx6k",
+   "title": "One Of These Things First",
+   "artist": "Nick Drake",
+   "album": "Bryter Layter"
+  },
+  {
+   "id": "98FoEuBGOIU",
+   "title": "Rich Men North of Richmond",
+   "artist": "Oliver Anthony Music",
+   "album": "Rich Men North of Richmond"
+  },
+  {
+   "id": "hTkO_eezAIE",
+   "title": "Old Songs Like That",
+   "artist": "Dillon Carmichael",
+   "album": "Old Songs Like That"
+  },
+  {
+   "id": "p1Li84lDQ6g",
+   "title": "Until We Meet Again",
+   "artist": "Hermanos Gutiérrez",
+   "album": "Until We Meet Again"
+  },
+  {
+   "id": "PRVdoeQWHXc",
+   "title": "Cowboys Are Frequently Secretly Fond Of Each Other",
+   "artist": "Orville Peck & Willie Nelson",
+   "album": "Stampede"
+  },
+  {
+   "id": "DRIWKW3u86o",
+   "title": "Rough Johns",
+   "artist": "John Craigie",
+   "album": "No Rain, No Rose"
+  },
+  {
+   "id": "2-t301uvSmY",
+   "title": "Fuck Me Up",
+   "artist": "Pokey LaFarge",
+   "album": "Rock Bottom Rhapsody"
+  },
+  {
+   "id": "XRjVsYXylfM",
+   "title": "Best Clockmaker on Mars",
+   "artist": "Sturgill Simpson",
+   "album": "SOUND & FURY"
+  },
+  {
+   "id": "wy1GKXqt66k",
+   "title": "Mercury in Retrograde",
+   "artist": "Sturgill Simpson",
+   "album": "SOUND & FURY"
+  },
+  {
+   "id": "R3ey55LTxpc",
+   "title": "Good Neighbor",
+   "artist": "John Boutte",
+   "album": "Good Neighbor"
+  },
+  {
+   "id": "j4YL12uKHRA",
+   "title": "Someday Soon",
+   "artist": "Wilco",
+   "album": "Being There"
+  },
+  {
+   "id": "7zrV0y2PfSs",
+   "title": "Start Livin'",
+   "artist": "Donavon Frankenreiter",
+   "album": "Revisited 2"
+  },
+  {
+   "id": "_0E8qoZIi-s",
+   "title": "Raindrop",
+   "artist": "The Wood Brothers",
+   "album": "Paradise"
+  },
+  {
+   "id": "Daagph0Tdek",
+   "title": "Head On",
+   "artist": "Jamestown Revival",
+   "album": "The Education Of A Wandering Man"
+  },
+  {
+   "id": "Mip0p368law",
+   "title": "Growing Upside Down",
+   "artist": "The Ditty Bops",
+   "album": "Moon Over The Freeway (U.S. Version)"
+  },
+  {
+   "id": "yUoW8Mjjil4",
+   "title": "Dog",
+   "artist": "Charlie Parr",
+   "album": "Dog"
+  },
+  {
+   "id": "l6_w3887Rwo",
+   "title": "Tennessee Whiskey",
+   "artist": "Chris Stapleton",
+   "album": "Traveller"
+  },
+  {
+   "id": "cuM7SGIXhLY",
+   "title": "Lost In The Light",
+   "artist": "Bahamas",
+   "album": "Barchords"
+  },
+  {
+   "id": "PQXmldsfuxs",
+   "title": "Sea Stories",
+   "artist": "Sturgill Simpson",
+   "album": "A Sailor's Guide to Earth"
+  },
+  {
+   "id": "TQIGiefShs4",
+   "title": "California Sway",
+   "artist": "Smooth Hound Smith",
+   "album": "Smooth Hound Smith"
+  },
+  {
+   "id": "6pXxPulWhFM",
+   "title": "The Bells Are Ringing",
+   "artist": "Smiley Lewis",
+   "album": "Mama Don't Like It! 1950-1956"
+  },
+  {
+   "id": "FiPRbxG_ICI",
+   "title": "Taylor's Rock",
+   "artist": "Sonny Landreth",
+   "album": "American Blues Cuts"
+  },
+  {
+   "id": "snmVbvHkxSI",
+   "title": "Big Chief",
+   "artist": "Professor Longhair",
+   "album": "Blues 100"
+  },
+  {
+   "id": "OeV6rWurSkg",
+   "title": "You Can Have the Crown",
+   "artist": "Sturgill Simpson",
+   "album": "High Top Mountain"
+  },
+  {
+   "id": "irqSBxz44eU",
+   "title": "Ain't It the Same",
+   "artist": "Uncle Lucius",
+   "album": "Pick Your Head Up"
+  },
+  {
+   "id": "OOqx8q7rGwI",
+   "title": "Slumber's Sympathy",
+   "artist": "Kelly Hogan",
+   "album": "I Like To Keep Myself In Pain"
+  },
+  {
+   "id": "_R4BB7d21Wk",
+   "title": "I Like To Keep Myself In Pain",
+   "artist": "Kelly Hogan",
+   "album": "I Like To Keep Myself In Pain"
+  },
+  {
+   "id": "8azLbSvJJh4",
+   "title": "Nashville Skyline Rag",
+   "artist": "Bob Dylan",
+   "album": "Nashville Skyline"
+  },
+  {
+   "id": "CynAK8E8BfI",
+   "title": "River Wider",
+   "artist": "Tall Heights",
+   "album": "Neptune"
+  },
+  {
+   "id": "MrkO5FuoiyE",
+   "title": "Medley: Fiddler's Dram/Whiskey Before Breakfast (Medley)",
+   "artist": "Tony Rice & Norman Blake",
+   "album": "58957: The Bluegrass Guitar Collection"
+  },
+  {
+   "id": "txEdnBOqGDM",
+   "title": "The Category Stomp",
+   "artist": "John Hartford",
+   "album": "Housing Project"
+  },
+  {
+   "id": "ukQVECtJioc",
+   "title": "Make You Mine",
+   "artist": "Donavon Frankenreiter",
+   "album": "Donavon Frankenreiter"
+  },
+  {
+   "id": "k0FF1s9g6Xw",
+   "title": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+   "artist": "Waylon Jennings",
+   "album": "The Essential Highwaymen"
+  },
+  {
+   "id": "SRJhsYf-jok",
+   "title": "Honky Tonk Heroes",
+   "artist": "Waylon Jennings",
+   "album": "Honky Tonk Heroes"
+  },
+  {
+   "id": "rUpH0muyR-I",
+   "title": "Sunday Valley (Sturgill Simpson) \"Life Ain't Fair\"",
+   "artist": "Music Fog",
+   "album": ""
+  },
+  {
+   "id": "Ve3RZEtRBwo",
+   "title": "Thrown To The Wolves",
+   "artist": "Jaden Decker",
+   "album": "Thrown To The Wolves"
+  },
+  {
+   "id": "Qp1To_7QZcI",
+   "title": "Soul of a Man",
+   "artist": "Justin Johnson",
+   "album": "The Biscuit House"
+  },
+  {
+   "id": "pOfYjO1G7hk",
+   "title": "Keep Your Lamp Trimmed and Burning",
+   "artist": "Luke Winslow-King",
+   "album": "The Coming Tide"
+  },
+  {
+   "id": "Z9Xcwcayp8Y",
+   "title": "Little Sally Walker",
+   "artist": "Jessie Mae Hemphill & Friends",
+   "album": "Dare You to Do It Again"
+  },
+  {
+   "id": "QsHUjNAbL68",
+   "title": "Word Of Mouth (Audiotree Live Version)",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves on Audiotree Live (2013)"
+  },
+  {
+   "id": "TIDXpcsQc1w",
+   "title": "Dearly Departed",
+   "artist": "Shakey Graves",
+   "album": "And The War Came"
+  },
+  {
+   "id": "MzmjYNrZiEo",
+   "title": "Late July (Audiotree Live Version)",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves on Audiotree Live (2013)"
+  },
+  {
+   "id": "2TeUKG7LYZk",
+   "title": "Unlucky Skin",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "mca7rLfDtrU",
+   "title": "Built To Roam",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "RqHX7onQShU",
+   "title": "Roll The Bones",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "Hw_x0KAbWqg",
+   "title": "I'm On Fire",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "Fk8Yu2XccQM",
+   "title": "Georgia Moon",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "Bqi39mTkp24",
+   "title": "City In A Bottle (Live @ 2023)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "4XLuw92ls64",
+   "title": "Proper Fence",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "3tMQKYkc07Q",
+   "title": "To Cure What Ails",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "_FUaMDW11AA",
+   "title": "Years Ago (Interlude)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "62uN9tMZy4U",
+   "title": "Chinatown",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "27Td9cKLmxM",
+   "title": "Oh The Reign",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "NiOYNYMP-R8",
+   "title": "The Night (Interlude)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "b9_NiKCs8CM",
+   "title": "Dusty Lion",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "aTgpgOXNEco",
+   "title": "Word of Mouth (Early Version) (feat. Issac Gillespie & Isaac Gillespie)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "C4TEaLgMG0s",
+   "title": "The Haunted Guitar (Interlude)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "nc-tkUGQYOo",
+   "title": "Late July (Early Version)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "3Q8KuCGUTSI",
+   "title": "The Daily All",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "rX5Kw3sF8hw",
+   "title": "Pansy Waltz (Demo)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "XsYz8abpjxE",
+   "title": "Lonely Hill (Alt-Version)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "ummhwYHaKIE",
+   "title": "The Teacher (Interlude)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "rV496TqCzOc",
+   "title": "Saving Face (Early Version Of Roll The Bones)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "Li5lTb6nwKg",
+   "title": "Bully's Lament (feat. Issac Gillespie & Morgan Heringer)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "nrBnVr_5NFE",
+   "title": "The Shepherd (Interlude)",
+   "artist": "Shakey Graves",
+   "album": "Roll The Bones X"
+  },
+  {
+   "id": "ueC72HVO-74",
+   "title": "The Donor Blues",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "Gtj89OIR1j4",
+   "title": "Doe, Jane",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "GgilO3cwHz8",
+   "title": "Humor Maze",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "tfHil_PA3oI",
+   "title": "Stereotypes Of A Blue Collar Male",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "ENUvA7b4gQc",
+   "title": "Alexander, City Born",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "izY9AXr_oZ4",
+   "title": "War Horn",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "b-PsECzGKak",
+   "title": "Good Police",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "wKQeT1kQvOI",
+   "title": "Family Tree",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "cWf3aa3bEZA",
+   "title": "If Not For You (Demo)",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "uqCT9Xk0LbU",
+   "title": "Nobody's Fool",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "5EnnMUI6nnY",
+   "title": "Oh My Poison",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "RAEOsa0tVBY",
+   "title": "Wolfman Agenda",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "hEbvIz5SvyE",
+   "title": "Pay The Road",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "J4OivNmCKC4",
+   "title": "Seeing All Red",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "RiD9hhgaZCo",
+   "title": "Love, Patiently",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "9wBC-wMArXM",
+   "title": "Wither",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "IYyb7zV3iYI",
+   "title": "A Dream Is A Wish Your Heart Makes",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "ea3CByWL-Ns",
+   "title": "Clearasil (The Ladies)",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)"
+  },
+  {
+   "id": "tq6POJgMXcc",
+   "title": "Honeybee",
+   "artist": "The Head And The Heart",
+   "album": "Honeybee"
+  }
+ ],
+ "count": 94,
+ "at": "2026-10-27T17:12:06.754Z",
+ "updated": "2026-10-27T18:01:48.993Z"
+}

@@ -1,0 +1,464 @@
+{
+ "id": "f7f2e4977663",
+ "name": "Electronic & Dance",
+ "genres": [
+  "electronic",
+  "dance"
+ ],
+ "by": "Dan",
+ "tracks": [
+  {
+   "id": "BFh9KyjYMjM",
+   "title": "A Journey To Reedham (7am Mix)",
+   "artist": "Squarepusher",
+   "album": "Big Loada"
+  },
+  {
+   "id": "uhA7iqrQ8HI",
+   "title": "Shut 'Em Up",
+   "artist": "The Prodigy, Public Enemy & Manfred Mann",
+   "album": "The Day Is My Enemy (Expanded Edition)"
+  },
+  {
+   "id": "yP8DtnwoTww",
+   "title": "Don't Wait Up",
+   "artist": "Midnight Generation",
+   "album": "Don't Wait Up"
+  },
+  {
+   "id": "mRxE3V1AXTg",
+   "title": "Ass-n-Titties",
+   "artist": "DJ Assault",
+   "album": "A Night At the Booty Bar"
+  },
+  {
+   "id": "PbtINB1xpGg",
+   "title": "Herbs & Wine (feat. IVAR)",
+   "artist": "Kraak & Smaak",
+   "album": ""
+  },
+  {
+   "id": "je1-KAdg4po",
+   "title": "Dante’s Paradiso",
+   "artist": "Gramatik & Stehreo",
+   "album": "Dante’s Paradiso"
+  },
+  {
+   "id": "f903wQHlE3w",
+   "title": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
+   "artist": "Daft Punk, Julian Casablancas & The Voidz",
+   "album": "Random Access Memories (10th Anniversary Edition)"
+  },
+  {
+   "id": "N3o2kFa7qNo",
+   "title": "Fishfred",
+   "artist": "Kettel",
+   "album": "Myam James, Pt. 1"
+  },
+  {
+   "id": "khnokW3Mw24",
+   "title": "Instant Crush (feat. Julian Casablancas)",
+   "artist": "Daft Punk & Julian Casablancas",
+   "album": "Random Access Memories"
+  },
+  {
+   "id": "hQ5PFlYU9sk",
+   "title": "Vanille fraise",
+   "artist": "L'Impératrice",
+   "album": "Vanille fraise"
+  },
+  {
+   "id": "aI3lFyLBzR4",
+   "title": "Agitations tropicales (Version acoustique)",
+   "artist": "L'Impératrice",
+   "album": "Odyssée (Version acoustique)"
+  },
+  {
+   "id": "Dtw9-v5_utE",
+   "title": "Kid Francescoli - Moon (Slowed)",
+   "artist": "Rivalry",
+   "album": ""
+  },
+  {
+   "id": "oPzHznsmq8c",
+   "title": "Dangerous",
+   "artist": "Big Data & Joywave",
+   "album": "1.0"
+  },
+  {
+   "id": "yuduo3zFHoQ",
+   "title": "Silver Lining",
+   "artist": "Hurts",
+   "album": "Happiness - Deluxe Edition"
+  },
+  {
+   "id": "MBqXa7TtbGQ",
+   "title": "Bye Bye Macadam",
+   "artist": "Rone",
+   "album": "Tohu Bohu"
+  },
+  {
+   "id": "JUNxjfDHQ-4",
+   "title": "Train",
+   "artist": "Goldfrapp",
+   "album": "Train"
+  },
+  {
+   "id": "zU51JiFYhY4",
+   "title": "Strict Machine",
+   "artist": "Goldfrapp",
+   "album": "Black Cherry"
+  },
+  {
+   "id": "8aoC8EZ5fi0",
+   "title": "push it (feat. maria kallastu)",
+   "artist": "nublu",
+   "album": "push it"
+  },
+  {
+   "id": "-ai8VEioR9I",
+   "title": "Juliet India",
+   "artist": "Vitalic",
+   "album": "No Fun"
+  },
+  {
+   "id": "eRh26T-bFrc",
+   "title": "Randy (WWW)",
+   "artist": "Justice",
+   "album": "Randy (WWW)"
+  },
+  {
+   "id": "f6QFfmwFT3k",
+   "title": "Trauma (Worakls Remix)",
+   "artist": "NTO",
+   "album": "Hungry 5 (The Best of 5 Years)"
+  },
+  {
+   "id": "6ioWOFz9XAM",
+   "title": "Got You (Where I Want You)",
+   "artist": "The Flys",
+   "album": "Holiday Man"
+  },
+  {
+   "id": "_7oB-6pf-L0",
+   "title": "Miracle",
+   "artist": "Caravan Palace",
+   "album": "Miracle (Remixes)"
+  },
+  {
+   "id": "5a0OxulgZTA",
+   "title": "L'amour avec toi",
+   "artist": "Vendredi sur Mer",
+   "album": "Marée basse"
+  },
+  {
+   "id": "UJm0d12GNdw",
+   "title": "Anything New",
+   "artist": "Digitalism",
+   "album": "Idealism"
+  },
+  {
+   "id": "iGZn29bhKoY",
+   "title": "Radiation",
+   "artist": "The Hacker",
+   "album": "Rêves Mecaniques"
+  },
+  {
+   "id": "sKJzYoyE0Xg",
+   "title": "Cœur croisé",
+   "artist": "Polo & Pan",
+   "album": "Caravelle"
+  },
+  {
+   "id": "ioU3nnKb3FQ",
+   "title": "Le départ",
+   "artist": "L'Impératrice",
+   "album": "Odyssée - EP"
+  },
+  {
+   "id": "9O8vGgDZpEY",
+   "title": "Nanã",
+   "artist": "Polo & Pan",
+   "album": "Caravelle"
+  },
+  {
+   "id": "BG738umK6dI",
+   "title": "High With Somebody",
+   "artist": "Sandro Cavazza & P3GI-13",
+   "album": "High With Somebody"
+  },
+  {
+   "id": "Qq2Am2NVUbA",
+   "title": "Pleasure x Newjack x Civilization (WWW)",
+   "artist": "Justice",
+   "album": "Woman Worldwide"
+  },
+  {
+   "id": "1Yr8QAhQqZk",
+   "title": "Fan Out",
+   "artist": "Surkin",
+   "album": "Silver Island"
+  },
+  {
+   "id": "lQfGH66BrCc",
+   "title": "Chimichanga Cha Cha",
+   "artist": "Jamie Berry & Sam Berry",
+   "album": "Chimichanga Cha Cha"
+  },
+  {
+   "id": "iwbCLHnwsUk",
+   "title": "Heart",
+   "artist": "Jamie Berry",
+   "album": "Grandiose"
+  },
+  {
+   "id": "Dzhh8IHH4wo",
+   "title": "Ooh La La",
+   "artist": "The Wiseguys",
+   "album": "The Antidote"
+  },
+  {
+   "id": "7SX9SK63jnA",
+   "title": "The Joker",
+   "artist": "Fatboy Slim",
+   "album": "Palookaville"
+  },
+  {
+   "id": "swrUN8A6fMY",
+   "title": "The Journey",
+   "artist": "Fatboy Slim",
+   "album": "Palookaville"
+  },
+  {
+   "id": "Ryt4iAUk3yA",
+   "title": "Baby Can't Stop (Aeroplane Remix)",
+   "artist": "Lindstrom & Christabelle",
+   "album": "Bugged Out! presents Suck My Deck (Mixed by Friendly Fires)"
+  },
+  {
+   "id": "-YSAGRIEhGQ",
+   "title": "Overpowered",
+   "artist": "Róisín Murphy",
+   "album": "Overpowered"
+  },
+  {
+   "id": "xrbgZFz7ULM",
+   "title": "General Error",
+   "artist": "047",
+   "album": "Elva"
+  },
+  {
+   "id": "YuTbVhJ-J3g",
+   "title": "Don't Dance",
+   "artist": "Hot Chip",
+   "album": "Made In The Dark"
+  },
+  {
+   "id": "9lsUNON81Z4",
+   "title": "I Don't Feel Like Dancin'",
+   "artist": "Scissor Sisters",
+   "album": "Ta-Dah"
+  },
+  {
+   "id": "ZhkK8C9o31k",
+   "title": "Itch U Can't Skratch",
+   "artist": "Junior Senior",
+   "album": "Hey Hey My My Yo Yo"
+  },
+  {
+   "id": "CLsRMmwnaUo",
+   "title": "Scrub Me Mama with a Boogie Beat",
+   "artist": "Swing Republic",
+   "album": "The Best of Swing Republic"
+  },
+  {
+   "id": "hKCRnRBPUaA",
+   "title": "Beatophone",
+   "artist": "Caravan Palace",
+   "album": "Caravan Palace / Panic (2 albums)"
+  },
+  {
+   "id": "wuldbCwTT2w",
+   "title": "Studio Sorcery",
+   "artist": "Kormac",
+   "album": "Word Play"
+  },
+  {
+   "id": "RuALqU72Mlk",
+   "title": "Get busy living Radio edit (feat. Emily Bruce)",
+   "artist": "Goldfish",
+   "album": "Get busy living"
+  },
+  {
+   "id": "038JpxM9e04",
+   "title": "Libella Swing",
+   "artist": "Parov Stelar",
+   "album": "The Art of Sampling"
+  },
+  {
+   "id": "0axUSvSbM7w",
+   "title": "Dramophone",
+   "artist": "Caravan Palace",
+   "album": "Caravan Palace / Panic (2 albums)"
+  },
+  {
+   "id": "SovOyrJIvMg",
+   "title": "Go (feat. Q-Tip)",
+   "artist": "The Chemical Brothers",
+   "album": "Born In The Echoes (Deluxe Edition)"
+  },
+  {
+   "id": "T7cuw9WVrGI",
+   "title": "The Salmon Dance",
+   "artist": "The Chemical Brothers",
+   "album": "We Are The Night"
+  },
+  {
+   "id": "WagyA3N1FgE",
+   "title": "My Elastic Eye",
+   "artist": "The Chemical Brothers",
+   "album": "Come With Us"
+  },
+  {
+   "id": "uHQemoN8GoQ",
+   "title": "Loungemeister",
+   "artist": "Ugress",
+   "album": "Resound"
+  },
+  {
+   "id": "Px1UeqAro0g",
+   "title": "Theme from Gutbuster",
+   "artist": "Bentley Rhythm Ace",
+   "album": "Theme From 'Gutbuster' [playlist 1]"
+  },
+  {
+   "id": "7hSPb8VgApk",
+   "title": "Weekend",
+   "artist": "Class Actress",
+   "album": "Rapprocher"
+  },
+  {
+   "id": "bzd40fX_iSU",
+   "title": "Believer",
+   "artist": "Goldfrapp",
+   "album": "Believer"
+  },
+  {
+   "id": "Rgrt_8mXrK8",
+   "title": "Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
+   "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",
+   "album": "Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)"
+  },
+  {
+   "id": "yOE8BvMRNbw",
+   "title": "Carnival",
+   "artist": "Jamie Berry",
+   "album": "Swing It"
+  },
+  {
+   "id": "aXkdF9EzYAY",
+   "title": "Angelica",
+   "artist": "Lamb",
+   "album": "Between Darkness & Wonder"
+  },
+  {
+   "id": "ReWfIdbsN10",
+   "title": "Hungry Child (Popof Remix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "9PDsjcMKG-0",
+   "title": "Hungry Child (Paul Woolford Sunrise Mix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "kvsC8oP1CU4",
+   "title": "Hungry Child (Paul Woolford Sunrise Mix (Edit))",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "3GBB8dwX1IU",
+   "title": "Hungry Child (Makeness Remix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "RfunwfwR0GA",
+   "title": "Hungry Child (KiNK Mix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "RHKXjuAzufg",
+   "title": "Hungry Child (KiNK Mix (Edit))",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "c-1z8aJXZng",
+   "title": "Hungry Child (Locum Remix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "ggnw3J6G4vo",
+   "title": "Melody of Love (PBR Streetgang Remix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "KbkTC0tnTIk",
+   "title": "Melody of Love (PBR Streetgang Remix (Edit))",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "eEwfM9pdAJU",
+   "title": "Melody of Love (Adelphi Music Factory ‘Time To Bring Peace’ Remix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "EVEuIKF4apg",
+   "title": "Melody of Love (Adelphi Music Factory ‘Time To Bring Peace’ Remix (Edit))",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "vcV2dw91utY",
+   "title": "Melody of Love (Marquis Hawkes Remix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "l7jVnXSHg-I",
+   "title": "Spell (Extra Credit Remix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "R-T-Vx8p_M8",
+   "title": "Spell (Gerry Read Remix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "iUKFHtXTzh8",
+   "title": "Spell (Superorganism Remix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  },
+  {
+   "id": "t0UqCAPkx_E",
+   "title": "Positive (Wau Funk Remix)",
+   "artist": "Hot Chip",
+   "album": "A Bath Full of Ecstasy (Remixes)"
+  }
+ ],
+ "count": 75,
+ "at": "2026-10-27T17:14:05.699Z",
+ "updated": "2026-10-27T22:50:13.159Z"
+}
