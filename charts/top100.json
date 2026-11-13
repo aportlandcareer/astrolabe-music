@@ -47,19 +47,19 @@
   },
   {
    "rank": 6,
-   "id": "Kl8jfX7J7rg",
-   "title": "Homage (Pour La Grande Fromage)",
-   "artist": "Bruce Kaphan",
-   "album": "Slider (2022 Remaster)",
+   "id": "b-PsECzGKak",
+   "title": "Good Police",
+   "artist": "Shakey Graves",
+   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)",
    "plays": 2,
    "listeners": 2
   },
   {
    "rank": 7,
-   "id": "b-PsECzGKak",
-   "title": "Good Police",
-   "artist": "Shakey Graves",
-   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)",
+   "id": "Kl8jfX7J7rg",
+   "title": "Homage (Pour La Grande Fromage)",
+   "artist": "Bruce Kaphan",
+   "album": "Slider (2022 Remaster)",
    "plays": 2,
    "listeners": 2
   },
@@ -101,24 +101,6 @@
   },
   {
    "rank": 12,
-   "id": "zdCLmz-zEYM",
-   "title": "Please Me",
-   "artist": "Cardi B & Bruno Mars",
-   "album": "Please Me",
-   "plays": 4,
-   "listeners": 1
-  },
-  {
-   "rank": 13,
-   "id": "SR6iYWJxHqs",
-   "title": "Grenade",
-   "artist": "Bruno Mars",
-   "album": "Doo-Wops & Hooligans",
-   "plays": 4,
-   "listeners": 1
-  },
-  {
-   "rank": 14,
    "id": "PiEnQh5RRxA",
    "title": "Chill Reggae Vibes by the Sea",
    "artist": "Dub Warrior, Reggae Beats Instrumentals & Zion Frequency",
@@ -127,7 +109,34 @@
    "listeners": 1
   },
   {
+   "rank": 13,
+   "id": "zdCLmz-zEYM",
+   "title": "Please Me",
+   "artist": "Cardi B & Bruno Mars",
+   "album": "Please Me",
+   "plays": 4,
+   "listeners": 1
+  },
+  {
+   "rank": 14,
+   "id": "SR6iYWJxHqs",
+   "title": "Grenade",
+   "artist": "Bruno Mars",
+   "album": "Doo-Wops & Hooligans",
+   "plays": 4,
+   "listeners": 1
+  },
+  {
    "rank": 15,
+   "id": "Cr55jDHw0Bs",
+   "title": "Beggar Groove",
+   "artist": "LTJ Xperience",
+   "album": "Beggar Groove",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 16,
    "id": "-fRCjynj31Q",
    "title": "Up Above My Head (Live)",
    "artist": "The California Honeydrops",
@@ -136,7 +145,7 @@
    "listeners": 1
   },
   {
-   "rank": 16,
+   "rank": 17,
    "id": "74YMgSCvKjw",
    "title": "Parentheses",
    "artist": "The Blow",
@@ -145,7 +154,7 @@
    "listeners": 1
   },
   {
-   "rank": 17,
+   "rank": 18,
    "id": "tFaP1d3GNRA",
    "title": "Between Us (feat. Snoh Aalegra)",
    "artist": "dvsn",
@@ -154,7 +163,7 @@
    "listeners": 1
   },
   {
-   "rank": 18,
+   "rank": 19,
    "id": "5YbfGwuh570",
    "title": "Alright",
    "artist": "Jamiroquai",
@@ -163,7 +172,7 @@
    "listeners": 1
   },
   {
-   "rank": 19,
+   "rank": 20,
    "id": "fdprOT-Fxpw",
    "title": "Larry Pockets",
    "artist": "Scary Pockets & Larry Goldings",
@@ -172,7 +181,7 @@
    "listeners": 1
   },
   {
-   "rank": 20,
+   "rank": 21,
    "id": "WzsW9-hTlLM",
    "title": "Know Who You Are (feat. Alicia Keys)",
    "artist": "Pharrell Williams",
@@ -181,7 +190,7 @@
    "listeners": 1
   },
   {
-   "rank": 21,
+   "rank": 22,
    "id": "eQbqHSprYCY",
    "title": "Count To Five",
    "artist": "Rhye",
@@ -190,7 +199,7 @@
    "listeners": 1
   },
   {
-   "rank": 22,
+   "rank": 23,
    "id": "tEpuiZm94OQ",
    "title": "Talk (feat. Disclosure)",
    "artist": "Khalid",
@@ -199,7 +208,7 @@
    "listeners": 1
   },
   {
-   "rank": 23,
+   "rank": 24,
    "id": "OPDFsAh6Zy0",
    "title": "Overjoyed",
    "artist": "Mary J. Blige",
@@ -208,7 +217,7 @@
    "listeners": 1
   },
   {
-   "rank": 24,
+   "rank": 25,
    "id": "5srlMjz5ePs",
    "title": "Come Down",
    "artist": "Anderson .Paak",
@@ -217,7 +226,7 @@
    "listeners": 1
   },
   {
-   "rank": 25,
+   "rank": 26,
    "id": "WfunypXsBO4",
    "title": "Where The Streets Have No Name",
    "artist": "U2",
@@ -226,7 +235,7 @@
    "listeners": 1
   },
   {
-   "rank": 26,
+   "rank": 27,
    "id": "zO8fgFz1Www",
    "title": "Moment",
    "artist": "Victoria Monét",
@@ -235,7 +244,7 @@
    "listeners": 1
   },
   {
-   "rank": 27,
+   "rank": 28,
    "id": "6T4RKvdqhrU",
    "title": "Our First Time",
    "artist": "Bruno Mars",
@@ -244,7 +253,7 @@
    "listeners": 1
   },
   {
-   "rank": 28,
+   "rank": 29,
    "id": "St6gNF3KdQQ",
    "title": "Dixie McGuire",
    "artist": "Chet Atkins",
@@ -253,7 +262,7 @@
    "listeners": 1
   },
   {
-   "rank": 29,
+   "rank": 30,
    "id": "KNErR5jgaLg",
    "title": "Young Travelers",
    "artist": "Tommy Emmanuel",
@@ -262,7 +271,7 @@
    "listeners": 1
   },
   {
-   "rank": 30,
+   "rank": 31,
    "id": "ujx2Wz_qup8",
    "title": "Slow Jam 1",
    "artist": "King Gizzard & The Lizard Wizard",
@@ -271,7 +280,7 @@
    "listeners": 1
   },
   {
-   "rank": 31,
+   "rank": 32,
    "id": "LveBx3x9ArY",
    "title": "That's Why I Love You",
    "artist": "SiR",
@@ -280,295 +289,7 @@
    "listeners": 1
   },
   {
-   "rank": 32,
-   "id": "-dZQgvRMFIA",
-   "title": "Canto De Ossanha",
-   "artist": "Jurassic 5",
-   "album": "Feedback",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
    "rank": 33,
-   "id": "n5h0NaZWjyw",
-   "title": "Motion Movement",
-   "artist": "Blue Scholars",
-   "album": "Blue Scholars",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 34,
-   "id": "48ydDUQ16RE",
-   "title": "Unforgettable (feat. Swae Lee)",
-   "artist": "French Montana",
-   "album": "Jungle Rules",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 35,
-   "id": "Lm0UNtWPqfs",
-   "title": "Season 2 Episode 3",
-   "artist": "Glass Animals",
-   "album": "How To Be A Human Being",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 36,
-   "id": "fT7zAXuA4Us",
-   "title": "Superstylin'",
-   "artist": "Groove Armada",
-   "album": "",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 37,
-   "id": "7SX9SK63jnA",
-   "title": "The Joker",
-   "artist": "Fatboy Slim",
-   "album": "Palookaville",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 38,
-   "id": "kxSwhs0ptAg",
-   "title": "Sunday Vibes",
-   "artist": "Masego & Medasin",
-   "album": "The Pink Polo EP",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 39,
-   "id": "lgNlFmsn4c8",
-   "title": "Escape From LA",
-   "artist": "The Weeknd",
-   "album": "After Hours",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 40,
-   "id": "4wRzC9vAcfs",
-   "title": "Touchy Feely",
-   "artist": "Ro James",
-   "album": "Touchy Feely",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 41,
-   "id": "udzNSJVs4nM",
-   "title": "Fuck Around",
-   "artist": "Tink",
-   "album": "Fuck Around",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 42,
-   "id": "RTRxnD2sTnM",
-   "title": "The Take (feat. Chris Brown)",
-   "artist": "Tory Lanez",
-   "album": "Chixtape 5",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 43,
-   "id": "QMP-o8WXSPM",
-   "title": "Love On The Brain",
-   "artist": "Rihanna",
-   "album": "ANTI",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 44,
-   "id": "C7797uQwUG4",
-   "title": "The Greatest Show On Earth",
-   "artist": "U2",
-   "album": "",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 45,
-   "id": "xwwY0Qs79ak",
-   "title": "Sideways",
-   "artist": "Citizen Cope",
-   "album": "The Clarence Greenwood Recordings",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 46,
-   "id": "znB6GDpRaAI",
-   "title": "Assassin",
-   "artist": "The Fearless Flyers",
-   "album": "Tailwinds",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 47,
-   "id": "nWs9Hoh2ECg",
-   "title": "High Desert",
-   "artist": "Bruce Kaphan",
-   "album": "Slider (2022 Remaster)",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 48,
-   "id": "FjutynER6ZQ",
-   "title": "IV. Love",
-   "artist": "Owen Thiele x Zack Sekoff",
-   "album": "Without",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 49,
-   "id": "-5y_Q6Z_qUw",
-   "title": "Hang High",
-   "artist": "Dirty Art Club",
-   "album": "Mystic Drive-Thru",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 50,
-   "id": "KtyAyXHcq8g",
-   "title": "Clouds",
-   "artist": "Bruce Kaphan",
-   "album": "Slider- Ambient Excursions for Pedal Steel Guitar",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 51,
-   "id": "tcm1A-OT8hQ",
-   "title": "Precious Time",
-   "artist": "Tommy Emmanuel",
-   "album": "Determination",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 52,
-   "id": "ghmguXs8g6o",
-   "title": "Wild Spirit",
-   "artist": "Lowtone Music",
-   "album": "Wild Spirit",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 53,
-   "id": "ukxqiZHIyQA",
-   "title": "Jacaranda",
-   "artist": "Blind Pilot",
-   "album": "In the Shadow of the Holy Mountain",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 54,
-   "id": "H7sqGld0yBA",
-   "title": "Peace Blossom Boogy",
-   "artist": "Babe Rainbow",
-   "album": "Peace Blossom Boogy",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 55,
-   "id": "BSVKyjlVgfQ",
-   "title": "Johny Says Stay Cool",
-   "artist": "Babe Rainbow",
-   "album": "Johny Says Stay Cool",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 56,
-   "id": "jgL4JrF8xLA",
-   "title": "Anenome",
-   "artist": "The Brian Jonestown Massacre",
-   "album": "Their Satanic Majesties' Second Request",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 57,
-   "id": "UAYImHvlrFI",
-   "title": "Don't Stop (2004 Remaster)",
-   "artist": "Fleetwood Mac",
-   "album": "Rumours (Super Deluxe)",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 58,
-   "id": "anQd-0HidUs",
-   "title": "Don't Stop",
-   "artist": "Fleetwood Mac",
-   "album": "",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 59,
-   "id": "2bIVejW5AvI",
-   "title": "Jerusalem",
-   "artist": "Matisyahu",
-   "album": "Youth",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 60,
-   "id": "PPP8aw82PHk",
-   "title": "Ruby My Dear",
-   "artist": "Thelonious Monk Trio",
-   "album": "Straight No Chaser",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 61,
-   "id": "vQSI-rUUYqA",
-   "title": "Summer Madness",
-   "artist": "Kool & The Gang",
-   "album": "Light Of Worlds",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 62,
-   "id": "72udXsmd0e8",
-   "title": "Sunshine",
-   "artist": "Cleo Sol",
-   "album": "Mother",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 63,
-   "id": "dElRVQFqj-k",
-   "title": "Marry You",
-   "artist": "Bruno Mars",
-   "album": "Doo-Wops & Hooligans",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 64,
    "id": "diYbM8F4gs0",
    "title": "Edge Reggae",
    "artist": "New Reggae Radio",
@@ -577,7 +298,7 @@
    "listeners": 1
   },
   {
-   "rank": 65,
+   "rank": 34,
    "id": "3-qYhXQuW6A",
    "title": "Reggae Riddim Instrumental Beat Protoje type beat - Maroon Riddimz x Sinky Beatz \"Barefoot Riddim\"",
    "artist": "Sinky Beatz",
@@ -586,7 +307,7 @@
    "listeners": 1
   },
   {
-   "rank": 66,
+   "rank": 35,
    "id": "sb1Majh46sw",
    "title": "Warm Breeze (Chill Reggae)",
    "artist": "EchoCloud",
@@ -595,7 +316,7 @@
    "listeners": 1
   },
   {
-   "rank": 67,
+   "rank": 36,
    "id": "4_elIOx0Q5w",
    "title": "No Answer",
    "artist": "Ikebe Shakedown",
@@ -604,7 +325,7 @@
    "listeners": 1
   },
   {
-   "rank": 68,
+   "rank": 37,
    "id": "ZUjNSHq8aiU",
    "title": "MYSTIC MOODS Cosmic Sea 70s Space",
    "artist": "funkgetier",
@@ -613,7 +334,7 @@
    "listeners": 1
   },
   {
-   "rank": 69,
+   "rank": 38,
    "id": "8HyKty-1Ud0",
    "title": "The Qualitons - Plutonium",
    "artist": "tuberider1976",
@@ -622,7 +343,7 @@
    "listeners": 1
   },
   {
-   "rank": 70,
+   "rank": 39,
    "id": "MQcF8LKSLpc",
    "title": "It Ain't Fair, But It's Fun",
    "artist": "The Fabulous Originals",
@@ -631,279 +352,551 @@
    "listeners": 1
   },
   {
+   "rank": 40,
+   "id": "-dZQgvRMFIA",
+   "title": "Canto De Ossanha",
+   "artist": "Jurassic 5",
+   "album": "Feedback",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 41,
+   "id": "n5h0NaZWjyw",
+   "title": "Motion Movement",
+   "artist": "Blue Scholars",
+   "album": "Blue Scholars",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 42,
+   "id": "48ydDUQ16RE",
+   "title": "Unforgettable (feat. Swae Lee)",
+   "artist": "French Montana",
+   "album": "Jungle Rules",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 43,
+   "id": "Lm0UNtWPqfs",
+   "title": "Season 2 Episode 3",
+   "artist": "Glass Animals",
+   "album": "How To Be A Human Being",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 44,
+   "id": "fT7zAXuA4Us",
+   "title": "Superstylin'",
+   "artist": "Groove Armada",
+   "album": "",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 45,
+   "id": "7SX9SK63jnA",
+   "title": "The Joker",
+   "artist": "Fatboy Slim",
+   "album": "Palookaville",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 46,
+   "id": "kxSwhs0ptAg",
+   "title": "Sunday Vibes",
+   "artist": "Masego & Medasin",
+   "album": "The Pink Polo EP",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 47,
+   "id": "lgNlFmsn4c8",
+   "title": "Escape From LA",
+   "artist": "The Weeknd",
+   "album": "After Hours",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 48,
+   "id": "4wRzC9vAcfs",
+   "title": "Touchy Feely",
+   "artist": "Ro James",
+   "album": "Touchy Feely",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 49,
+   "id": "udzNSJVs4nM",
+   "title": "Fuck Around",
+   "artist": "Tink",
+   "album": "Fuck Around",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 50,
+   "id": "RTRxnD2sTnM",
+   "title": "The Take (feat. Chris Brown)",
+   "artist": "Tory Lanez",
+   "album": "Chixtape 5",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 51,
+   "id": "QMP-o8WXSPM",
+   "title": "Love On The Brain",
+   "artist": "Rihanna",
+   "album": "ANTI",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 52,
+   "id": "C7797uQwUG4",
+   "title": "The Greatest Show On Earth",
+   "artist": "U2",
+   "album": "",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 53,
+   "id": "xwwY0Qs79ak",
+   "title": "Sideways",
+   "artist": "Citizen Cope",
+   "album": "The Clarence Greenwood Recordings",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 54,
+   "id": "znB6GDpRaAI",
+   "title": "Assassin",
+   "artist": "The Fearless Flyers",
+   "album": "Tailwinds",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 55,
+   "id": "nWs9Hoh2ECg",
+   "title": "High Desert",
+   "artist": "Bruce Kaphan",
+   "album": "Slider (2022 Remaster)",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 56,
+   "id": "FjutynER6ZQ",
+   "title": "IV. Love",
+   "artist": "Owen Thiele x Zack Sekoff",
+   "album": "Without",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 57,
+   "id": "-5y_Q6Z_qUw",
+   "title": "Hang High",
+   "artist": "Dirty Art Club",
+   "album": "Mystic Drive-Thru",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 58,
+   "id": "KtyAyXHcq8g",
+   "title": "Clouds",
+   "artist": "Bruce Kaphan",
+   "album": "Slider- Ambient Excursions for Pedal Steel Guitar",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 59,
+   "id": "tcm1A-OT8hQ",
+   "title": "Precious Time",
+   "artist": "Tommy Emmanuel",
+   "album": "Determination",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 60,
+   "id": "ghmguXs8g6o",
+   "title": "Wild Spirit",
+   "artist": "Lowtone Music",
+   "album": "Wild Spirit",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 61,
+   "id": "ukxqiZHIyQA",
+   "title": "Jacaranda",
+   "artist": "Blind Pilot",
+   "album": "In the Shadow of the Holy Mountain",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 62,
+   "id": "H7sqGld0yBA",
+   "title": "Peace Blossom Boogy",
+   "artist": "Babe Rainbow",
+   "album": "Peace Blossom Boogy",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 63,
+   "id": "BSVKyjlVgfQ",
+   "title": "Johny Says Stay Cool",
+   "artist": "Babe Rainbow",
+   "album": "Johny Says Stay Cool",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 64,
+   "id": "jgL4JrF8xLA",
+   "title": "Anenome",
+   "artist": "The Brian Jonestown Massacre",
+   "album": "Their Satanic Majesties' Second Request",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 65,
+   "id": "UAYImHvlrFI",
+   "title": "Don't Stop (2004 Remaster)",
+   "artist": "Fleetwood Mac",
+   "album": "Rumours (Super Deluxe)",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 66,
+   "id": "anQd-0HidUs",
+   "title": "Don't Stop",
+   "artist": "Fleetwood Mac",
+   "album": "",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 67,
+   "id": "2bIVejW5AvI",
+   "title": "Jerusalem",
+   "artist": "Matisyahu",
+   "album": "Youth",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 68,
+   "id": "PPP8aw82PHk",
+   "title": "Ruby My Dear",
+   "artist": "Thelonious Monk Trio",
+   "album": "Straight No Chaser",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 69,
+   "id": "vQSI-rUUYqA",
+   "title": "Summer Madness",
+   "artist": "Kool & The Gang",
+   "album": "Light Of Worlds",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 70,
+   "id": "72udXsmd0e8",
+   "title": "Sunshine",
+   "artist": "Cleo Sol",
+   "album": "Mother",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
    "rank": 71,
-   "id": "b2HNtOC2PKI",
-   "title": "Coffee & Smoke",
-   "artist": "Kazam",
-   "album": "Coffee & Smoke",
-   "plays": 1,
+   "id": "dElRVQFqj-k",
+   "title": "Marry You",
+   "artist": "Bruno Mars",
+   "album": "Doo-Wops & Hooligans",
+   "plays": 2,
    "listeners": 1
   },
   {
    "rank": 72,
-   "id": "YeS3PDfUeqM",
-   "title": "just forget",
-   "artist": "FORCE OF NATURE",
-   "album": "samurai champloo music record impression",
+   "id": "mYwGIl1qCUY",
+   "title": "Beautiful",
+   "artist": "Reggae Summer, Mellow Reggae & Reggae",
+   "album": "Reggae Instrumental Music",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 73,
-   "id": "QTZ1GBb0w3I",
-   "title": "Packed Powder",
-   "artist": "Blind Pilot",
-   "album": "And Then Like Lions",
+   "id": "tm31hmyIu-I",
+   "title": "Supercluster (Instrumental)",
+   "artist": "2026",
+   "album": "Soundtrack to the Universe Inside",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 74,
-   "id": "wKQeT1kQvOI",
-   "title": "Family Tree",
-   "artist": "Shakey Graves",
-   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)",
+   "id": "YRdoh_ECWTE",
+   "title": "Out of this World (Instrumental)",
+   "artist": "2026",
+   "album": "Soundtrack to the Universe Inside",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 75,
-   "id": "irqSBxz44eU",
-   "title": "Ain't It the Same",
-   "artist": "Uncle Lucius",
-   "album": "Pick Your Head Up",
+   "id": "oS3SzbAsI7w",
+   "title": "Nebula Riddim",
+   "artist": "Sinky Beatz",
+   "album": "Nebula Riddim",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 76,
-   "id": "pC2w7UaJYTw",
-   "title": "Business Lunch",
-   "artist": "Shakey Graves",
-   "album": "Roll The Bones X",
+   "id": "dfqaqNzdkYc",
+   "title": "Reagge Roots Instrumental 2018 - \"Hypocritical wars\" New roots and culture DUB",
+   "artist": "Sinky Beatz",
+   "album": "",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 77,
-   "id": "2TeUKG7LYZk",
-   "title": "Unlucky Skin",
-   "artist": "Shakey Graves",
-   "album": "Roll The Bones X",
+   "id": "IX-Xl3Z4FgQ",
+   "title": "Africa Works Riddim",
+   "artist": "Sinky Beatz",
+   "album": "",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 78,
-   "id": "7zrV0y2PfSs",
-   "title": "Start Livin'",
-   "artist": "Donavon Frankenreiter",
-   "album": "Revisited 2",
+   "id": "6qQOJDfipwc",
+   "title": "Crucial Times Riddim",
+   "artist": "Sinky Beatz",
+   "album": "Tuff Riddims vol.2",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 79,
-   "id": "J4OivNmCKC4",
-   "title": "Seeing All Red",
-   "artist": "Shakey Graves",
-   "album": "Shakey Graves And The Horse He Rode In On (Nobody's Fool & The Donor Blues EP)",
+   "id": "q9p09Lm1w5g",
+   "title": "Nyabinghi Riddim",
+   "artist": "Sinky Beatz",
+   "album": "Sinky Beatz Tuff Riddims, Vol. 1",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 80,
-   "id": "aEWONCzT3AA",
-   "title": "Legs (2003 Remaster)",
-   "artist": "ZZ Top",
-   "album": "Hi Five: ZZ Top",
+   "id": "Nl921MZGPac",
+   "title": "Reggae Inside",
+   "artist": "New Reggae Radio",
+   "album": "Dub Chill Reggae Instrumental",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 81,
-   "id": "exw1KnWqnFw",
-   "title": "Superstylin' Dub",
-   "artist": "Unknown Artist",
-   "album": "",
+   "id": "C9cijmZTlLM",
+   "title": "Bigger Road Riddim",
+   "artist": "Sinky Beatz",
+   "album": "Sinky Beatz Tuff Riddims, Vol. 1",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 82,
-   "id": "iozsLGorggI",
-   "title": "Coopers World",
-   "artist": "Squarepusher",
-   "album": "Hard Normal Daddy",
+   "id": "_8W1_Zg6Jl4",
+   "title": "SOUL MACHINE-Bag Of Goodies",
+   "artist": "GStrongRAW",
+   "album": "",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 83,
-   "id": "LKJ-0ZO4pxo",
-   "title": "Beep Street",
-   "artist": "Squarepusher",
-   "album": "Hard Normal Daddy",
+   "id": "w_a5mRbwr-o",
+   "title": "Sicily' Box (feat. Rocco Palladino)",
+   "artist": "Venna, Yussef Dayes & Marco Bernardis",
+   "album": "Sicily' Box",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 84,
-   "id": "QQLFOAGpgmY",
-   "title": "Pain and Misery",
-   "artist": "The Teskey Brothers",
-   "album": "Half Mile Harvest",
+   "id": "Lg6Q6xENbtQ",
+   "title": "Burnt Toast",
+   "artist": "Dualizm",
+   "album": "Debris",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 85,
-   "id": "WagyA3N1FgE",
-   "title": "My Elastic Eye",
-   "artist": "The Chemical Brothers",
-   "album": "Come With Us",
+   "id": "PZGF6pGUZfQ",
+   "title": "Hippy Skippy Moon Strut",
+   "artist": "The Mighty Show Stoppers",
+   "album": "Hippy Skippy Moon Strut / Night of the Wolf",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 86,
-   "id": "-ai8VEioR9I",
-   "title": "Juliet India",
-   "artist": "Vitalic",
-   "album": "No Fun",
+   "id": "d0hROwNg2ag",
+   "title": "Vague Memories",
+   "artist": "Instrumental Rap Hip Hop, Lo-Fi Beats & Lofi Hip-Hop Beats",
+   "album": "Instrumental Lofi Beats",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 87,
-   "id": "aI3lFyLBzR4",
-   "title": "Agitations tropicales (Version acoustique)",
-   "artist": "L'Impératrice",
-   "album": "Odyssée (Version acoustique)",
+   "id": "3O1vT_rbui0",
+   "title": "Circles",
+   "artist": "Ihaksi",
+   "album": "Endless Summer",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 88,
-   "id": "9Gv_G0u5hl8",
-   "title": "Definition Of A Rap Flow (Albee 3000) (feat. Amalie Bruun)",
-   "artist": "R.A. The Rugged Man",
-   "album": "Legends Never Die",
+   "id": "cWm0VQtmxVc",
+   "title": "Ice Cream",
+   "artist": "Ihaksi",
+   "album": "Btch Please",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 89,
-   "id": "lpbHZOkDrwA",
-   "title": "Level It Up",
-   "artist": "The Coup",
-   "album": "Sorry To Bother You: The Soundtrack",
+   "id": "4OP3tPnryZ0",
+   "title": "The Next Message",
+   "artist": "The Mighty Mocambos",
+   "album": "The Future Is Here",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 90,
-   "id": "yetGML1gWow",
-   "title": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
-   "artist": "UGK (Underground Kingz)",
-   "album": "UGK (Underground Kingz)",
+   "id": "PmsW2yETOwM",
+   "title": "BOYS IN THE BAND Sumpin Heavy 70s Funk Instr.",
+   "artist": "funkgetier",
+   "album": "",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 91,
-   "id": "lauRvbA1ASc",
-   "title": "Neighborhood",
-   "artist": "Del the Funky Homosapien",
-   "album": "Hiero Oldies: Volume Two",
+   "id": "G-iLcvaHXxQ",
+   "title": "DJ Premier - Classic (instrumental)",
+   "artist": "WildStyle32",
+   "album": "",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 92,
-   "id": "YJjBmA1GWYM",
-   "title": "Think I Am (feat. Big Daddy Kane & MF DOOM)",
-   "artist": "Masta Ace",
-   "album": "MA_DOOM: Son of Yvonne",
+   "id": "DthU51ReHh0",
+   "title": "Vintage",
+   "artist": "Ihaksi",
+   "album": "Pink",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 93,
-   "id": "ZjsmxKP1HMk",
-   "title": "Treat People With Kindness",
-   "artist": "Harry Styles",
-   "album": "Fine Line",
+   "id": "uQaS9kJc-O4",
+   "title": "Outa-Space",
+   "artist": "Billy Preston",
+   "album": "I Wrote A Simple Song",
    "plays": 1,
-   "listeners": 1,
-   "sp": "spotify:track:03mMSLEJCPoGJwQhHpN5y0"
+   "listeners": 1
   },
   {
    "rank": 94,
-   "id": "2uUWW22FpoA",
-   "title": "Everyday Robots",
-   "artist": "Damon Albarn",
-   "album": "Everyday Robots",
+   "id": "UZHkAO6Zn_c",
+   "title": "My Hood",
+   "artist": "Ihaksi",
+   "album": "Btch Please",
    "plays": 1,
-   "listeners": 1,
-   "sp": "spotify:track:2dLL8ikM6GXMhKX39c12zN"
+   "listeners": 1
   },
   {
    "rank": 95,
-   "id": "4rkx2ajY748",
-   "title": "Dirty AF1s",
-   "artist": "Alexander 23",
-   "album": "Dirty AF1s",
+   "id": "rwU7SSmtqcw",
+   "title": "Ghetto St. U.S.A. (Instrumental)",
+   "artist": "Rudy Ray Moore",
+   "album": "Petey Wheatstraw- The Devil's Son In Law",
    "plays": 1,
-   "listeners": 1,
-   "sp": "spotify:track:6fFSDDBO5Gc9Y2i2CA8vZI"
+   "listeners": 1
   },
   {
    "rank": 96,
-   "id": "KXM2teV1tek",
-   "title": "Pour Some Sugar On Me (2012)",
-   "artist": "Def Leppard",
-   "album": "Pour Some Sugar On Me (2012)",
+   "id": "FtG8KIe-i-w",
+   "title": "Bend",
+   "artist": "Ihaksi",
+   "album": "Diamond Sky",
    "plays": 1,
-   "listeners": 1,
-   "sp": "spotify:track:0LN0ASTtcGIbNTnjSHG6eO"
+   "listeners": 1
   },
   {
    "rank": 97,
-   "id": "LbMupcmeSpY",
-   "title": "She",
-   "artist": "Harry Styles",
-   "album": "Fine Line",
+   "id": "YgVpWw3QQ4s",
+   "title": "Gloomy",
+   "artist": "Ihaksi",
+   "album": "Fling",
    "plays": 1,
-   "listeners": 1,
-   "sp": "spotify:track:6SQLk9HSNketfgs2AyIiMs"
+   "listeners": 1
   },
   {
    "rank": 98,
-   "id": "O2KXttf8pHY",
-   "title": "Riverside - Lulu Rouge remix",
-   "artist": "Agnes Obel, Lulu Rouge",
-   "album": "Riverside (Lulu Rouge remix)",
+   "id": "EbY6IOO5_nk",
+   "title": "Funk Ain't A Word",
+   "artist": "Bunky Green",
+   "album": "Loose & Juicy",
    "plays": 1,
-   "listeners": 1,
-   "sp": "spotify:track:0WPKbXuExAG2d60LCkK4Nx"
+   "listeners": 1
   },
   {
    "rank": 99,
-   "id": "u6VaHQw4c60",
-   "title": "Everything Is Embarrassing",
-   "artist": "Sky Ferreira",
-   "album": "Night Time, My Time",
+   "id": "j6eIfFpH8vA",
+   "title": "Sea Groove",
+   "artist": "Big Boss Man",
+   "album": "Sea Groove",
    "plays": 1,
-   "listeners": 1,
-   "sp": "spotify:track:7j3nbSiaWphYU2cFgyQXd9"
+   "listeners": 1
   },
   {
    "rank": 100,
-   "id": "MO1HSfzK1Ns",
-   "title": "\"Come On Petunia\"",
-   "artist": "The Blow",
-   "album": "",
+   "id": "H89xvW4Ef34",
+   "title": "cloudsleeper",
+   "artist": "damaa.beats",
+   "album": "sweetness",
    "plays": 1,
    "listeners": 1
   }
@@ -965,25 +958,25 @@
   },
   {
    "rank": 10,
-   "artist": "Babe Rainbow",
-   "plays": 8,
-   "listeners": 1
-  },
-  {
-   "rank": 11,
    "artist": "Sinky Beatz",
    "plays": 8,
    "listeners": 1
   },
   {
+   "rank": 11,
+   "artist": "Babe Rainbow",
+   "plays": 8,
+   "listeners": 1
+  },
+  {
    "rank": 12,
-   "artist": "Tommy Emmanuel",
+   "artist": "Ihaksi",
    "plays": 7,
    "listeners": 1
   },
   {
    "rank": 13,
-   "artist": "Ihaksi",
+   "artist": "Tommy Emmanuel",
    "plays": 7,
    "listeners": 1
   },
@@ -1025,487 +1018,487 @@
   },
   {
    "rank": 20,
-   "artist": "Cardi B & Bruno Mars",
-   "plays": 4,
-   "listeners": 1
-  },
-  {
-   "rank": 21,
-   "artist": "Anderson .Paak",
-   "plays": 4,
-   "listeners": 1
-  },
-  {
-   "rank": 22,
-   "artist": "Fleetwood Mac",
-   "plays": 4,
-   "listeners": 1
-  },
-  {
-   "rank": 23,
    "artist": "Dub Warrior, Reggae Beats Instrumentals & Zion Frequency",
    "plays": 4,
    "listeners": 1
   },
   {
-   "rank": 24,
+   "rank": 21,
    "artist": "funkgetier",
    "plays": 4,
    "listeners": 1
   },
   {
+   "rank": 22,
+   "artist": "Cardi B & Bruno Mars",
+   "plays": 4,
+   "listeners": 1
+  },
+  {
+   "rank": 23,
+   "artist": "Anderson .Paak",
+   "plays": 4,
+   "listeners": 1
+  },
+  {
+   "rank": 24,
+   "artist": "Fleetwood Mac",
+   "plays": 4,
+   "listeners": 1
+  },
+  {
    "rank": 25,
-   "artist": "The California Honeydrops",
-   "plays": 3,
+   "artist": "Queen",
+   "plays": 4,
    "listeners": 1
   },
   {
    "rank": 26,
-   "artist": "Vitalic",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 27,
-   "artist": "dvsn",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 28,
-   "artist": "Jamiroquai",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 29,
-   "artist": "Scary Pockets & Larry Goldings",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 30,
-   "artist": "Poison",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 31,
-   "artist": "Pharrell Williams",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 32,
-   "artist": "Rhye",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 33,
-   "artist": "Khalid",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 34,
-   "artist": "Mary J. Blige",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 35,
-   "artist": "Tory Lanez",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 36,
-   "artist": "Victoria Monét",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 37,
-   "artist": "The Fearless Flyers",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 38,
-   "artist": "Owen Thiele x Zack Sekoff",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 39,
-   "artist": "Dirty Art Club",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 40,
-   "artist": "Chet Atkins",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 41,
-   "artist": "King Gizzard & The Lizard Wizard",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 42,
-   "artist": "SiR",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 43,
    "artist": "New Reggae Radio",
    "plays": 3,
    "listeners": 1
   },
   {
+   "rank": 27,
+   "artist": "LTJ Xperience",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 28,
+   "artist": "The California Honeydrops",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 29,
+   "artist": "Vitalic",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 30,
+   "artist": "dvsn",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 31,
+   "artist": "Jamiroquai",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 32,
+   "artist": "Scary Pockets & Larry Goldings",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 33,
+   "artist": "Poison",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 34,
+   "artist": "Pharrell Williams",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 35,
+   "artist": "Rhye",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 36,
+   "artist": "Khalid",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 37,
+   "artist": "Mary J. Blige",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 38,
+   "artist": "Tory Lanez",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 39,
+   "artist": "Victoria Monét",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 40,
+   "artist": "The Fearless Flyers",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 41,
+   "artist": "Owen Thiele x Zack Sekoff",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 42,
+   "artist": "Dirty Art Club",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 43,
+   "artist": "Chet Atkins",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
    "rank": 44,
-   "artist": "Jurassic 5",
-   "plays": 2,
+   "artist": "King Gizzard & The Lizard Wizard",
+   "plays": 3,
    "listeners": 1
   },
   {
    "rank": 45,
-   "artist": "Blue Scholars",
-   "plays": 2,
+   "artist": "SiR",
+   "plays": 3,
    "listeners": 1
   },
   {
    "rank": 46,
-   "artist": "French Montana",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 47,
-   "artist": "Harry Styles",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 48,
-   "artist": "Glass Animals",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 49,
-   "artist": "Fruit Bats",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 50,
-   "artist": "Hot Chip",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 51,
-   "artist": "Groove Armada",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 52,
-   "artist": "Fatboy Slim",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 53,
-   "artist": "Big Country",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 54,
-   "artist": "Masego & Medasin",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 55,
-   "artist": "The Weeknd",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 56,
-   "artist": "Ro James",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 57,
-   "artist": "Tink",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 58,
-   "artist": "Rihanna",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 59,
-   "artist": "Citizen Cope",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 60,
-   "artist": "Hailey Niswanger",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 61,
-   "artist": "Madonna",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 62,
-   "artist": "Lowtone Music",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 63,
-   "artist": "The Brian Jonestown Massacre",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 64,
-   "artist": "Matisyahu",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 65,
-   "artist": "Thelonious Monk Trio",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 66,
-   "artist": "Kool & The Gang",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 67,
-   "artist": "Cleo Sol",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 68,
-   "artist": "George Harrison",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 69,
    "artist": "2026",
    "plays": 2,
    "listeners": 1
   },
   {
-   "rank": 70,
+   "rank": 47,
    "artist": "EchoCloud",
    "plays": 2,
    "listeners": 1
   },
   {
-   "rank": 71,
+   "rank": 48,
    "artist": "Ikebe Shakedown",
    "plays": 2,
    "listeners": 1
   },
   {
-   "rank": 72,
+   "rank": 49,
    "artist": "tuberider1976",
    "plays": 2,
    "listeners": 1
   },
   {
-   "rank": 73,
+   "rank": 50,
    "artist": "The Fabulous Originals",
    "plays": 2,
    "listeners": 1
   },
   {
+   "rank": 51,
+   "artist": "Jurassic 5",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 52,
+   "artist": "Blue Scholars",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 53,
+   "artist": "French Montana",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 54,
+   "artist": "Harry Styles",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 55,
+   "artist": "Glass Animals",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 56,
+   "artist": "Fruit Bats",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 57,
+   "artist": "Hot Chip",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 58,
+   "artist": "Groove Armada",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 59,
+   "artist": "Fatboy Slim",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 60,
+   "artist": "Big Country",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 61,
+   "artist": "Masego & Medasin",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 62,
+   "artist": "The Weeknd",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 63,
+   "artist": "Ro James",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 64,
+   "artist": "Tink",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 65,
+   "artist": "Rihanna",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 66,
+   "artist": "Citizen Cope",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 67,
+   "artist": "Hailey Niswanger",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 68,
+   "artist": "Madonna",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 69,
+   "artist": "Lowtone Music",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 70,
+   "artist": "The Brian Jonestown Massacre",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 71,
+   "artist": "Matisyahu",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 72,
+   "artist": "Thelonious Monk Trio",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 73,
+   "artist": "Kool & The Gang",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
    "rank": 74,
-   "artist": "Kazam",
-   "plays": 1,
+   "artist": "Cleo Sol",
+   "plays": 2,
    "listeners": 1
   },
   {
    "rank": 75,
-   "artist": "FORCE OF NATURE",
-   "plays": 1,
+   "artist": "George Harrison",
+   "plays": 2,
    "listeners": 1
   },
   {
    "rank": 76,
-   "artist": "Uncle Lucius",
+   "artist": "Reggae Summer, Mellow Reggae & Reggae",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 77,
-   "artist": "Donavon Frankenreiter",
+   "artist": "GStrongRAW",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 78,
-   "artist": "ZZ Top",
+   "artist": "Venna, Yussef Dayes & Marco Bernardis",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 79,
-   "artist": "Unknown Artist",
+   "artist": "Dualizm",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 80,
-   "artist": "The Teskey Brothers",
+   "artist": "The Mighty Show Stoppers",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 81,
-   "artist": "The Chemical Brothers",
+   "artist": "Instrumental Rap Hip Hop, Lo-Fi Beats & Lofi Hip-Hop Beats",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 82,
-   "artist": "L'Impératrice",
+   "artist": "The Mighty Mocambos",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 83,
-   "artist": "R.A. The Rugged Man",
+   "artist": "WildStyle32",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 84,
-   "artist": "The Coup",
+   "artist": "Billy Preston",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 85,
-   "artist": "UGK (Underground Kingz)",
+   "artist": "Rudy Ray Moore",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 86,
-   "artist": "Del the Funky Homosapien",
+   "artist": "Bunky Green",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 87,
-   "artist": "Masta Ace",
+   "artist": "Big Boss Man",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 88,
-   "artist": "Damon Albarn",
+   "artist": "damaa.beats",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 89,
-   "artist": "Alexander 23",
+   "artist": "MrHotpantsImComin",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 90,
-   "artist": "Def Leppard",
+   "artist": "The Shaolin Afronauts",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 91,
-   "artist": "Agnes Obel, Lulu Rouge",
+   "artist": "paris91",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 92,
-   "artist": "Sky Ferreira",
+   "artist": "Photogenic 100mm",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 93,
-   "artist": "Clairo",
+   "artist": "Incredible Bongo Band",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 94,
-   "artist": "Dirty Projectors",
+   "artist": "Isaac Hayes",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 95,
-   "artist": "Caravan Palace",
+   "artist": "Behind Clouds",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 96,
-   "artist": "Goldfrapp",
+   "artist": "Beau Dollar",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 97,
-   "artist": "Leon Thomas",
+   "artist": "Kazam",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 98,
-   "artist": "Summer Walker & USHER",
+   "artist": "FORCE OF NATURE",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 99,
-   "artist": "DJ Snake & Lil Jon",
+   "artist": "Uncle Lucius",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 100,
-   "artist": "Saun & Starr",
+   "artist": "Donavon Frankenreiter",
    "plays": 1,
    "listeners": 1
   }
@@ -1604,616 +1597,616 @@
   },
   {
    "rank": 14,
-   "album": "Please Me",
-   "artist": "Cardi B & Bruno Mars",
-   "plays": 4,
-   "listeners": 1
-  },
-  {
-   "rank": 15,
-   "album": "Malibu",
-   "artist": "Anderson .Paak",
-   "plays": 4,
-   "listeners": 1
-  },
-  {
-   "rank": 16,
-   "album": "Kammerkonzert",
-   "artist": "Squarepusher",
-   "plays": 4,
-   "listeners": 1
-  },
-  {
-   "rank": 17,
-   "album": "The Babe Rainbow",
-   "artist": "Babe Rainbow",
-   "plays": 4,
-   "listeners": 1
-  },
-  {
-   "rank": 18,
    "album": "Island Reggae Instrumental",
    "artist": "Dub Warrior, Reggae Beats Instrumentals & Zion Frequency",
    "plays": 4,
    "listeners": 1
   },
   {
+   "rank": 15,
+   "album": "Please Me",
+   "artist": "Cardi B & Bruno Mars",
+   "plays": 4,
+   "listeners": 1
+  },
+  {
+   "rank": 16,
+   "album": "Malibu",
+   "artist": "Anderson .Paak",
+   "plays": 4,
+   "listeners": 1
+  },
+  {
+   "rank": 17,
+   "album": "Kammerkonzert",
+   "artist": "Squarepusher",
+   "plays": 4,
+   "listeners": 1
+  },
+  {
+   "rank": 18,
+   "album": "The Babe Rainbow",
+   "artist": "Babe Rainbow",
+   "plays": 4,
+   "listeners": 1
+  },
+  {
    "rank": 19,
-   "album": "Honeydrops Live",
-   "artist": "The California Honeydrops",
-   "plays": 3,
+   "album": "Queen II (2026 Mix)",
+   "artist": "Queen",
+   "plays": 4,
    "listeners": 1
   },
   {
    "rank": 20,
-   "album": "No Fun",
-   "artist": "Vitalic",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 21,
-   "album": "A Muse In Her Feelings",
-   "artist": "dvsn",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 22,
-   "album": "Travelling Without Moving",
-   "artist": "Jamiroquai",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 23,
-   "album": "Scary Goldings",
-   "artist": "Scary Pockets & Larry Goldings",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 24,
-   "album": "Poison's Greatest Hits 1986-1996",
-   "artist": "Poison",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 25,
-   "album": "G I R L",
-   "artist": "Pharrell Williams",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 26,
-   "album": "Blood",
-   "artist": "Rhye",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 27,
-   "album": "Free Spirit",
-   "artist": "Khalid",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 28,
-   "album": "Conception - An Interpretation Of Stevie Wonder's Songs",
-   "artist": "Mary J. Blige",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 29,
-   "album": "Moment",
-   "artist": "Victoria Monét",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 30,
-   "album": "Without",
-   "artist": "Owen Thiele x Zack Sekoff",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 31,
-   "album": "The Day Finger Pickers Took Over The World",
-   "artist": "Chet Atkins",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 32,
-   "album": "Living In The Light",
-   "artist": "Tommy Emmanuel",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 33,
-   "album": "I'm In Your Mind Fuzz",
-   "artist": "King Gizzard & The Lizard Wizard",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 34,
-   "album": "Chasing Summer",
-   "artist": "SiR",
-   "plays": 3,
-   "listeners": 1
-  },
-  {
-   "rank": 35,
    "album": "Dub Chill Reggae Instrumental",
    "artist": "New Reggae Radio",
    "plays": 3,
    "listeners": 1
   },
   {
+   "rank": 21,
+   "album": "Beggar Groove",
+   "artist": "LTJ Xperience",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 22,
+   "album": "Honeydrops Live",
+   "artist": "The California Honeydrops",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 23,
+   "album": "No Fun",
+   "artist": "Vitalic",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 24,
+   "album": "A Muse In Her Feelings",
+   "artist": "dvsn",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 25,
+   "album": "Travelling Without Moving",
+   "artist": "Jamiroquai",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 26,
+   "album": "Scary Goldings",
+   "artist": "Scary Pockets & Larry Goldings",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 27,
+   "album": "Poison's Greatest Hits 1986-1996",
+   "artist": "Poison",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 28,
+   "album": "G I R L",
+   "artist": "Pharrell Williams",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 29,
+   "album": "Blood",
+   "artist": "Rhye",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 30,
+   "album": "Free Spirit",
+   "artist": "Khalid",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 31,
+   "album": "Conception - An Interpretation Of Stevie Wonder's Songs",
+   "artist": "Mary J. Blige",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 32,
+   "album": "Moment",
+   "artist": "Victoria Monét",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 33,
+   "album": "Without",
+   "artist": "Owen Thiele x Zack Sekoff",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 34,
+   "album": "The Day Finger Pickers Took Over The World",
+   "artist": "Chet Atkins",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
+   "rank": 35,
+   "album": "Living In The Light",
+   "artist": "Tommy Emmanuel",
+   "plays": 3,
+   "listeners": 1
+  },
+  {
    "rank": 36,
-   "album": "Roll The Bones X",
-   "artist": "Shakey Graves",
-   "plays": 2,
+   "album": "I'm In Your Mind Fuzz",
+   "artist": "King Gizzard & The Lizard Wizard",
+   "plays": 3,
    "listeners": 1
   },
   {
    "rank": 37,
-   "album": "Hard Normal Daddy",
-   "artist": "Squarepusher",
-   "plays": 2,
+   "album": "Chasing Summer",
+   "artist": "SiR",
+   "plays": 3,
    "listeners": 1
   },
   {
    "rank": 38,
-   "album": "Feedback",
-   "artist": "Jurassic 5",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 39,
-   "album": "Blue Scholars",
-   "artist": "Blue Scholars",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 40,
-   "album": "Jungle Rules",
-   "artist": "French Montana",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 41,
-   "album": "Fine Line",
-   "artist": "Harry Styles",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 42,
-   "album": "How To Be A Human Being",
-   "artist": "Glass Animals",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 43,
-   "album": "A Bath Full of Ecstasy (Remixes)",
-   "artist": "Hot Chip",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 44,
-   "album": "Palookaville",
-   "artist": "Fatboy Slim",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 45,
-   "album": "The Pink Polo EP",
-   "artist": "Masego & Medasin",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 46,
-   "album": "After Hours",
-   "artist": "The Weeknd",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 47,
-   "album": "Touchy Feely",
-   "artist": "Ro James",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 48,
-   "album": "Fuck Around",
-   "artist": "Tink",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 49,
-   "album": "Chixtape 5",
-   "artist": "Tory Lanez",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 50,
-   "album": "ANTI",
-   "artist": "Rihanna",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 51,
-   "album": "The Clarence Greenwood Recordings",
-   "artist": "Citizen Cope",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 52,
-   "album": "Tailwinds",
-   "artist": "The Fearless Flyers",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 53,
-   "album": "Songs Of Surrender",
-   "artist": "U2",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 54,
-   "album": "The Best Of 1980 - 1990",
-   "artist": "U2",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 55,
-   "album": "Mystic Drive-Thru",
-   "artist": "Dirty Art Club",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 56,
-   "album": "Slider- Ambient Excursions for Pedal Steel Guitar",
-   "artist": "Bruce Kaphan",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 57,
-   "album": "Determination",
-   "artist": "Tommy Emmanuel",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 58,
-   "album": "Wild Spirit",
-   "artist": "Lowtone Music",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 59,
-   "album": "Peace Blossom Boogy",
-   "artist": "Babe Rainbow",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 60,
-   "album": "Johny Says Stay Cool",
-   "artist": "Babe Rainbow",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 61,
-   "album": "Their Satanic Majesties' Second Request",
-   "artist": "The Brian Jonestown Massacre",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 62,
-   "album": "Rumours (Super Deluxe)",
-   "artist": "Fleetwood Mac",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 63,
-   "album": "Youth",
-   "artist": "Matisyahu",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 64,
-   "album": "Straight No Chaser",
-   "artist": "Thelonious Monk Trio",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 65,
-   "album": "Light Of Worlds",
-   "artist": "Kool & The Gang",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 66,
-   "album": "Mother",
-   "artist": "Cleo Sol",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 67,
-   "album": "Cloud Nine",
-   "artist": "George Harrison",
-   "plays": 2,
-   "listeners": 1
-  },
-  {
-   "rank": 68,
    "album": "Soundtrack to the Universe Inside",
    "artist": "2026",
    "plays": 2,
    "listeners": 1
   },
   {
-   "rank": 69,
+   "rank": 39,
    "album": "Sinky Beatz Tuff Riddims, Vol. 1",
    "artist": "Sinky Beatz",
    "plays": 2,
    "listeners": 1
   },
   {
-   "rank": 70,
+   "rank": 40,
    "album": "Island Breeze Dub – Relaxing Reggae Instrumental Background Music",
    "artist": "EchoCloud",
    "plays": 2,
    "listeners": 1
   },
   {
-   "rank": 71,
+   "rank": 41,
    "album": "Hard Steppin'",
    "artist": "Ikebe Shakedown",
    "plays": 2,
    "listeners": 1
   },
   {
-   "rank": 72,
+   "rank": 42,
    "album": "Btch Please",
    "artist": "Ihaksi",
    "plays": 2,
    "listeners": 1
   },
   {
-   "rank": 73,
+   "rank": 43,
    "album": "Midwest Funk: Funk 45s from Tornado Alley",
    "artist": "The Fabulous Originals",
    "plays": 2,
    "listeners": 1
   },
   {
+   "rank": 44,
+   "album": "Roll The Bones X",
+   "artist": "Shakey Graves",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 45,
+   "album": "Hard Normal Daddy",
+   "artist": "Squarepusher",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 46,
+   "album": "Feedback",
+   "artist": "Jurassic 5",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 47,
+   "album": "Blue Scholars",
+   "artist": "Blue Scholars",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 48,
+   "album": "Jungle Rules",
+   "artist": "French Montana",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 49,
+   "album": "Fine Line",
+   "artist": "Harry Styles",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 50,
+   "album": "How To Be A Human Being",
+   "artist": "Glass Animals",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 51,
+   "album": "A Bath Full of Ecstasy (Remixes)",
+   "artist": "Hot Chip",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 52,
+   "album": "Palookaville",
+   "artist": "Fatboy Slim",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 53,
+   "album": "The Pink Polo EP",
+   "artist": "Masego & Medasin",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 54,
+   "album": "After Hours",
+   "artist": "The Weeknd",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 55,
+   "album": "Touchy Feely",
+   "artist": "Ro James",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 56,
+   "album": "Fuck Around",
+   "artist": "Tink",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 57,
+   "album": "Chixtape 5",
+   "artist": "Tory Lanez",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 58,
+   "album": "ANTI",
+   "artist": "Rihanna",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 59,
+   "album": "The Clarence Greenwood Recordings",
+   "artist": "Citizen Cope",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 60,
+   "album": "Tailwinds",
+   "artist": "The Fearless Flyers",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 61,
+   "album": "Songs Of Surrender",
+   "artist": "U2",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 62,
+   "album": "The Best Of 1980 - 1990",
+   "artist": "U2",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 63,
+   "album": "Mystic Drive-Thru",
+   "artist": "Dirty Art Club",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 64,
+   "album": "Slider- Ambient Excursions for Pedal Steel Guitar",
+   "artist": "Bruce Kaphan",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 65,
+   "album": "Determination",
+   "artist": "Tommy Emmanuel",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 66,
+   "album": "Wild Spirit",
+   "artist": "Lowtone Music",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 67,
+   "album": "Peace Blossom Boogy",
+   "artist": "Babe Rainbow",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 68,
+   "album": "Johny Says Stay Cool",
+   "artist": "Babe Rainbow",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 69,
+   "album": "Their Satanic Majesties' Second Request",
+   "artist": "The Brian Jonestown Massacre",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 70,
+   "album": "Rumours (Super Deluxe)",
+   "artist": "Fleetwood Mac",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 71,
+   "album": "Youth",
+   "artist": "Matisyahu",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 72,
+   "album": "Straight No Chaser",
+   "artist": "Thelonious Monk Trio",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
+   "rank": 73,
+   "album": "Light Of Worlds",
+   "artist": "Kool & The Gang",
+   "plays": 2,
+   "listeners": 1
+  },
+  {
    "rank": 74,
-   "album": "Coffee & Smoke",
-   "artist": "Kazam",
-   "plays": 1,
+   "album": "Mother",
+   "artist": "Cleo Sol",
+   "plays": 2,
    "listeners": 1
   },
   {
    "rank": 75,
-   "album": "samurai champloo music record impression",
-   "artist": "FORCE OF NATURE",
-   "plays": 1,
+   "album": "Cloud Nine",
+   "artist": "George Harrison",
+   "plays": 2,
    "listeners": 1
   },
   {
    "rank": 76,
-   "album": "And Then Like Lions",
-   "artist": "Blind Pilot",
+   "album": "Reggae Instrumental Music",
+   "artist": "Reggae Summer, Mellow Reggae & Reggae",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 77,
-   "album": "Pick Your Head Up",
-   "artist": "Uncle Lucius",
+   "album": "Nebula Riddim",
+   "artist": "Sinky Beatz",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 78,
-   "album": "Revisited 2",
-   "artist": "Donavon Frankenreiter",
+   "album": "Tuff Riddims vol.2",
+   "artist": "Sinky Beatz",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 79,
-   "album": "Hi Five: ZZ Top",
-   "artist": "ZZ Top",
+   "album": "Sicily' Box",
+   "artist": "Venna, Yussef Dayes & Marco Bernardis",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 80,
-   "album": "Half Mile Harvest",
-   "artist": "The Teskey Brothers",
+   "album": "Debris",
+   "artist": "Dualizm",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 81,
-   "album": "Come With Us",
-   "artist": "The Chemical Brothers",
+   "album": "Hippy Skippy Moon Strut / Night of the Wolf",
+   "artist": "The Mighty Show Stoppers",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 82,
-   "album": "Odyssée (Version acoustique)",
-   "artist": "L'Impératrice",
+   "album": "Instrumental Lofi Beats",
+   "artist": "Instrumental Rap Hip Hop, Lo-Fi Beats & Lofi Hip-Hop Beats",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 83,
-   "album": "Legends Never Die",
-   "artist": "R.A. The Rugged Man",
+   "album": "Endless Summer",
+   "artist": "Ihaksi",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 84,
-   "album": "Sorry To Bother You: The Soundtrack",
-   "artist": "The Coup",
+   "album": "The Future Is Here",
+   "artist": "The Mighty Mocambos",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 85,
-   "album": "UGK (Underground Kingz)",
-   "artist": "UGK (Underground Kingz)",
+   "album": "Pink",
+   "artist": "Ihaksi",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 86,
-   "album": "Hiero Oldies: Volume Two",
-   "artist": "Del the Funky Homosapien",
+   "album": "I Wrote A Simple Song",
+   "artist": "Billy Preston",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 87,
-   "album": "MA_DOOM: Son of Yvonne",
-   "artist": "Masta Ace",
+   "album": "Petey Wheatstraw- The Devil's Son In Law",
+   "artist": "Rudy Ray Moore",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 88,
-   "album": "Everyday Robots",
-   "artist": "Damon Albarn",
+   "album": "Diamond Sky",
+   "artist": "Ihaksi",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 89,
-   "album": "Dirty AF1s",
-   "artist": "Alexander 23",
+   "album": "Fling",
+   "artist": "Ihaksi",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 90,
-   "album": "Pour Some Sugar On Me (2012)",
-   "artist": "Def Leppard",
+   "album": "Loose & Juicy",
+   "artist": "Bunky Green",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 91,
-   "album": "Riverside (Lulu Rouge remix)",
-   "artist": "Agnes Obel, Lulu Rouge",
+   "album": "Sea Groove",
+   "artist": "Big Boss Man",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 92,
-   "album": "Night Time, My Time",
-   "artist": "Sky Ferreira",
+   "album": "sweetness",
+   "artist": "damaa.beats",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 93,
-   "album": "Immunity",
-   "artist": "Clairo",
+   "album": "Journey Through Time",
+   "artist": "The Shaolin Afronauts",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 94,
-   "album": "The Ruminant Band",
-   "artist": "Fruit Bats",
+   "album": "Walking on Clouds",
+   "artist": "paris91",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 95,
-   "album": "Swing Lo Magellan",
-   "artist": "Dirty Projectors",
+   "album": "More Sun",
+   "artist": "Ihaksi",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 96,
-   "album": "Miracle (Remixes)",
-   "artist": "Caravan Palace",
+   "album": "Diorama",
+   "artist": "Photogenic 100mm",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 97,
-   "album": "Black Cherry",
-   "artist": "Goldfrapp",
+   "album": "The Return of the Incredible Bongo Band",
+   "artist": "Incredible Bongo Band",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 98,
-   "album": "MUTT",
-   "artist": "Leon Thomas",
+   "album": "Raw And Refined",
+   "artist": "Isaac Hayes",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 99,
-   "album": "Over It",
-   "artist": "Summer Walker & USHER",
+   "album": "forever autumn",
+   "artist": "Behind Clouds",
    "plays": 1,
    "listeners": 1
   },
   {
    "rank": 100,
-   "album": "Daptone Records Singles Collection: Volume 3",
-   "artist": "Saun & Starr",
+   "album": "James Brown's Funky People, Part 3",
+   "artist": "Beau Dollar",
    "plays": 1,
    "listeners": 1
   }
  ],
  "dashboards": 2,
- "made": "2026-11-12T18:52:38.429Z",
+ "made": "2026-11-13T18:30:28.969Z",
  "years": [
   2026
  ],
